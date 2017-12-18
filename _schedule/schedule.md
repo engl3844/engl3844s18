@@ -115,7 +115,7 @@ schedule:
         - date: 2018-02-27
           desc: 'Researching your topic + The explained genre.'
           readings: [ 'Find at least 3 sources about one of the issues listed on the Video project page. Review the provided sources on the Resources page to help you start your research.', 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube Channel]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
-          assign: [ 'Research: Create a bulletted list of interesting things that you learned about how your data are used.', 'Create a list of references after your list in APA, making sure that you also cite your sources for each bullet point in APA format: (Author Name, Year).' 'Analyze the explained video by labeling the sequence of communicative moves that it makes to explain something complex like Net Neutrality within a 2-3 minute timeframe.' ]
+          assign: [ 'Research: Create a bulletted list of interesting things that you learned about how your data are used.', 'Create a list of references after your list in APA, making sure that you also cite your sources for each bullet point in APA format: (Author Name, Year).', 'Analyze the explained video by labeling the sequence of communicative moves that it makes to explain something complex like Net Neutrality within a 2-3 minute timeframe.' ]
           other: [ 'Link to the <a href="" target="_blank">Introduction to the Explained Video</a> presentation slides' ]
       thu:
         - date: 2018-03-01
