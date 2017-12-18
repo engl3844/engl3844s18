@@ -1,0 +1,107 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: false
+---
+
+{% include base_path %}
+
+<table class="table striped">
+  <thead>
+    <tr>
+      <th class="sixty">
+        P<span>rojects</span>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+        <br />
+        <small>MA</small>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+        <br />
+        <small>PhD</small>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td class="sixty">
+        Use-Annotations
+      </td>
+      <td class="fifteen">
+        350
+      </td>
+      <td class="fifteen">
+        250
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Proposal
+      </td>
+      <td class="fifteen">
+        200
+      </td>
+      <td class="fifteen">
+        200
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Fieldnotes &amp; Memos
+      </td>
+      <td class="fifteen">
+        100
+      </td>
+      <td class="fifteen">
+        100
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Rhetorical Experience (Paper)
+      </td>
+      <td class="fifteen">
+        350
+      </td>
+      <td class="fifteen">
+        450
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Methodological Reflection
+      </td>
+      <td class="fifteen">
+        n/a
+      </td>
+      <td class="fifteen">
+        100
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty" style="text-align:right;">
+        <b>Total</b>
+      </td>
+      <td class="fifteen">
+        <b>1,000</b>
+      </td>
+      <td class="fifteen">
+        <b>1,000</b>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
