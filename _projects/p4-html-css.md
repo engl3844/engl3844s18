@@ -5,7 +5,7 @@ permalink: /projects/p4-html-css/
 points: "350"
 startdate: 2017-11-13
 enddate: 2017-12-20
-imgurl: /images/wireframe-main.png
+imgurl: /engl3844s18/images/wireframe-main.png
 ---
 
 <ul class="project-top-info">
@@ -20,7 +20,7 @@ imgurl: /images/wireframe-main.png
 In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative. You will learn about some fundamental HTML elements and their relationships and behaviors programmed with CSS. In short, you will write a web-ready narrative within a single-page website format.
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
+  <img src="/engl3844s18/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
   <figcaption>
     Caption: Wireframe example of a single-page website.
   </figcaption>

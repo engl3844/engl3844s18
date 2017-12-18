@@ -8,13 +8,6 @@ redirect_from:
   - /overview.html
 ---
 
-<figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/tech-bias-vid-twitter.png" alt="Screen capture of a video posted on Twitter.com with the Inspect element feature open. Note the amount of textual modes linked to the video." />
-  <figcaption>
-    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open. Note the amount of data / textual modes linked to the video. Link to the pictured <a href="https://twitter.com/nke_ise/status/897756900753891328" target="_blank">tweet</a>.
-  </figcaption>
-</figure>
-
 Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers. This course is production-heavy, but we will come to a more enriched understanding about how such skills and technologies are always linked to communities and their knowledges, biases, and values. Accordingly, I categorize the learning objectives as follows: Production and Conceptual.
 
 ## Production objectives

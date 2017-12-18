@@ -5,7 +5,7 @@ permalink: /projects/p3-video/
 points: "200"
 startdate: 2017-10-23
 enddate: 2017-11-13
-imgurl: /images/html5-video-main.png
+imgurl: /engl3844s18/images/html5-video-main.png
 ---
 
 <ul class="project-top-info">
@@ -38,7 +38,7 @@ In class, I will review some more generic conventions that will provide us commo
  Based on your choice of topic and editing software, you will be sorted into groups that are conducive for sharing ideas, resources, and strategies.
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
+  <img src="/engl3844s18/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
   <figcaption>
     Caption: Example of HTML5 video element in use.
   </figcaption>
@@ -49,7 +49,7 @@ In class, I will review some more generic conventions that will provide us commo
 1. Learn about some basic video composition conventions of the <i>Explained</i> genre.
 2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
 3. Learn how to create a storyboard that outlines your video.
-4. Learn about basic video codecs, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
+4. Learn about basic video codecs and file formats.
 5. Create a 3-5 minute video.
 
 ## Rubric
