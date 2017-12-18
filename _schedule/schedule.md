@@ -105,8 +105,23 @@ schedule:
       thu:
         - date: 2018-02-22
           desc: 'Data Visualization Due + Introduce Video Project'
-          readings: [ 'Read the Video Production project page. I will send an announcement through Canvas on Thursday (10/19), when the updated version is available.' ]
+          readings: [ 'Read the Video Production project page.' ]
           assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
+    - num: 8
+      startproj: true
+      sp-title: 'Project: Video Production'
+      wkh: 'Researching your video'
+      tue:
+        - date: 2018-02-27
+          desc: 'Researching your topic + The explained genre.'
+          readings: [ 'Find at least 3 sources about one of the issues listed on the Video project page. Review the provided sources on the Resources page to help you start your research.', 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube Channel]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
+          assign: [ 'Research: Create a bulletted list of interesting things that you learned about how your data are used.', 'Create a list of references after your list in APA, making sure that you also cite your sources for each bullet point in APA format: (Author Name, Year).' 'Analyze the explained video by labeling the sequence of communicative moves that it makes to explain something complex like Net Neutrality within a 2-3 minute timeframe.' ]
+          other: [ 'Link to the <a href="" target="_blank">Introduction to the Explained Video</a> presentation slides' ]
+      thu:
+        - date: 2018-03-01
+          desc: 'Video Composition &amp; Storyboarding'
+          readings: [ 'O&#8217;Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
+          assign: [ 'Print out some storyboards [<a href="/assets/readings/videos/storypanels/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards. In class, we will categorize and label these cuts as acts, sequences, and scenes.' ]
 ---
 
 - num: 2
