@@ -73,8 +73,14 @@ ol.hokie-shade, ul.hokie-shade {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  -webkit-flex-flow: row wrap;
-  flex-flow: row wrap;
+  -webkit-flex-flow: column;
+  flex-flow: column;
+}
+@media screen and (min-width:800px) {
+  .grid__row {
+    -webkit-flex-flow: row;
+    flex-flow: row;
+  }
 }
 
 .grid__row > * {
@@ -638,15 +644,15 @@ ul.emphases {
   =========================================================================== */
 
 .cite > p {
-  margin-left: 0.75in;
-  text-indent: -0.5in;
+  margin-left: 15px;
+  text-indent: -15px;
   margin-bottom: 2%;
   line-height: 2em;
 }
 ul.reading-list {
   list-style-type: none;
-  margin-left: 0.75in;
-  text-indent: -0.5in;
+  margin-left: 15px;
+  text-indent: -15px;
   background: none;
   margin-bottom: 2%;
   line-height: 2em;
