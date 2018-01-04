@@ -95,7 +95,7 @@ schedule:
           assign: [ 'Come to class prepared to work on your data visualizations.' ]
 
     - num: 7
-      wkh: 'Inventing Our Projects'
+      wkh: 'Completing Your Data Visualization'
       tue:
         - date: 2018-02-20
           desc: 'Legends'
@@ -107,6 +107,7 @@ schedule:
           desc: 'Data Visualization Due + Introduce Video Project'
           readings: [ 'Read the Video Production project page.' ]
           assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
+
     - num: 8
       startproj: true
       sp-title: 'Project: Video Production'
@@ -131,6 +132,35 @@ schedule:
       thu:
         - date: 2018-03-08
           desc: 'Spring Break - No Class'
+
+    - num: 10
+      wkh: 'Secondary Research &amp; Outlining'
+      tue:
+        - date: 2018-03-13
+          desc: 'Draft Story Structure &amp; Storyboards Due'
+          readings: [ 'Read through the <a href="https://creativecommons.org/licenses/" target="_blank">Creative Commons</a> page and review the different licenses and what the do.', 'Read and learn more about Fair Use: <a href="https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/" target="_blank">What is Fair Use?</a>', 'Continue your research and organizing of resources to use in your Explained video.' ]
+          assign: [ 'Recall O&#8217;Connor&#8217;s video about Acts, sequences, and scenes. Note how he wrote out a Story Structure for his video as Acts with major sequences.<br/><br/>Before you create your own storypanels, create this broader structure with a preliminary title and logline. Note how your acts are already written for you. Now, develop sequences that will make up each act.', 'After you finish your Story Structure, print out more storyboards and complete a draft set of storypanels for your video. Be sure to plot out each set of sequences with their scenes and cuts.<br/><br/>Consider how you can use a mix of screen-recordings, clips from other videos, and other media (texts and images) within your sequences.' ]
+          other: [ 'In class, be prepared to showcase your story structures to peers in a concise and quick manner.', 'We will also use time to discuss how to organize our resources in preparation for creating our videos.' ]
+      thu:
+        - date: 2018-03-15
+          desc: 'Practicing Basic Cuts'
+          readings: [ 'Project organization handout', 'Continued research.' ]
+          assign: [ 'Organize your project folder in a way that reflects the handout provided.' ]
+          other: [ 'Be prepared to practice basic cuts within groups who share the same video software as you.' ]
+
+    - num: 11
+      wkh: 'Editing Teamwork + Preparing File Exports'
+      tue:
+        - date: 2018-03-20
+          desc: 'More Editing Teamwork'
+          readings: [ 'Continue research/editing as needed.' ]
+          assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+      thu:
+        - date: 2018-03-22
+          desc: 'Exporting Your Video Files'
+          readings: [ 'Blake, G. (7 May 2014). O&#8217;Reilly - Video Training. <a href="https://www.youtube.com/watch?v=LXWV8W5tBYM" target="_blank">Understanding Video Containers and Codecs</a>' ]
+          assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+          other: [ 'In class, we will also discuss and practice exporting our videos in preparation for the web-page project.' ]
 ---
 
 - num: 2
