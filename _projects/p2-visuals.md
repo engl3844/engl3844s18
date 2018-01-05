@@ -20,6 +20,8 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 In this graphic design project, you will learn how to make sound design decisions, how to represent data visually, and how to draw with Scalable Vector Graphics (SVGs). We will learn about basic types of charts, the fundamentals of marks and attributes for charts, and then how to draw SVGs in Inkscape.
 
+Below are 2 examples created by students in prior courses:
+
 <figure class="figure-inline proj-img">
   <a href="/images/dv-fitbit.png" target="_blank">
     <img src="/images/dv-fitbit.png" alt="Student example of a data visualization about their engagement with Fitbit." />
