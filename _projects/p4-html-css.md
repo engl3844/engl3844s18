@@ -129,8 +129,6 @@ In this final project, you will make decisions about how all of your media eleme
   </tbody>
 </table>
 
-**CSS**:
-
 ## Writing tools
 
 - Github <a href="https://github.com/" target="_blank">account</a> & <a href="https://desktop.github.com/" target="_blank">desktop application</a> for hosting and versioning your website.
