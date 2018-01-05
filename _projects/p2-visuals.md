@@ -24,10 +24,16 @@ We will all be using Scalable Vector Graphics (SVG) to create our visualizations
 
 As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. However, since it is quite a complex practice to create visuals with SVGs, we will hand draw our data visualizations. We will subsequently use Inkscape to translate them into SVGs, as we will also learn about the basic SVG document structure (see image below).
 
-<figure id="twitter-css-body" class="figure-inline proj-img">
-  <img src="/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />
+<figure class="figure-inline proj-img">
+  <a href="/images/dv-fitbit.png" target="_blank">
+    <img src="/images/dv-fitbit.png" alt="Student example of a data visualization about their engagement with Fitbit." />
+  </a>
+  <br />
+  <a href="/images/instagram-emotions-dataviz.png" target="_blank">
+    <img src="/images/instagram-emotions-dataviz.png" alt="Student example of a data visualization about their emotional responses to Instagram feed." />
+  </a>
   <figcaption>
-    Caption: Tree diagram of an SVG object's markup body (excerpt from [Cukier, 2012](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)).
+    Caption: Two example projects from prior students.
   </figcaption>
 </figure>
 
