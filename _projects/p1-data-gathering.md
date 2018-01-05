@@ -25,6 +25,7 @@ This data set is necessary to complete all of the subsequent media projects in t
 To guide us through this process, we will all share the following broader research question: **How are our media practices linked with algorithmic audiences**? From there, each of you must choose and refine a particular topic as a path to explore one of your own prominent, digital media practices. Some past projects included the following topics:
 
 - Emotions felt as: Browsing Instagram feed, Texting
+- News engagement, e.g., overall, on Twitter, or with news apps on mobile phone.
 - Use of emojis
 - How I use Spotify's machine-learning suggestion features
 - Netflix viewing habits
