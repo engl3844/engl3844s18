@@ -26,6 +26,35 @@ In this final project, you will make decisions about how all of your media eleme
   </figcaption>
 </figure>
 
+## General process
+
+1. Learn how to set up and use a web-writing environment.
+2. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
+3. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, how there are block and inline elements, how those elements can be written into hierarchies, and how they have <code>display</code> properties and behaviors.
+4. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
+5. Develop and refine your data-story narrative content.
+
+## Rubric
+
+**Website Content**:
+- Amplifies a particular set of insights about your online practices and how digital data are intertwined with it.
+- Integrates pertinent text, visuals, and videos to your datastory.
+
+**HTML**:
+- Conveys knowledge of block-level vs. inline-level elements.
+- Demonstrates knowledge of parent and child block relationships, i.e. element hierarchies.
+- Passes HTML5 validation test. To test your site, copy/paste the URL of it within this tester: <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>.
+  + Some "Warnings" are okay, but fix the noted "Errors."
+
+**CSS**:
+- Well-planned responsive grid with CSS3 Grid.
+  - Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
+- Structure of CSS document adheres to learned conventions:
+  - General styles up top and modifiers below, due to the cascade.
+  - Alike elements are grouped together, e.g., typography scheme, media, header elements, section elements, footer elements, etc.
+- Provides consistent commenting scheme.
+- Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
+
 ## Writing tools
 
 - Github <a href="https://github.com/" target="_blank">account</a> & <a href="https://desktop.github.com/" target="_blank">desktop application</a> for hosting and versioning your website.
@@ -37,26 +66,3 @@ In this final project, you will make decisions about how all of your media eleme
   - <b>For Windows</b>, follow the <em>Python 3</em> installation instruction on this page: <a href="https://www.howtogeek.com/197947/how-to-install-python-on-windows/" target="_blank">How to Geek</a>.<br/><br/><em>Be sure to choose the option to add a PATH variable</em>.<br/><br/><img style="width=70%" src="/images/python-install-win.png" />
 - Code editor: <a href="https://atom.io/" target="_blank">Atom</a> (Mac/PC), <a href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12" target="_blank">TextWrangler</a> (Mac), <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a> (Win)
 - Online code editor for practice lessons: <a href="https://codepen.io/" target="_blank">Codepen.io</a> account. Find and follow me as <a href="https://codepen.io/lndgrn/" target="_blank">lndgrn</a>. We will be using the following collection that I've curated on Codepen: <a href="https://codepen.io/collection/DdNPVo/" target="_blank">3844-examples</a>
-
-## General process
-
-1. Learn how to set up and use a web-writing environment.
-2. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
-3. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, its block and inline elements, and their <code>display</code> properties and behaviors.
-4. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
-5. Develop and refine your data-story narrative content.
-
-## Rubric
-
-- Website amplifies a particular set of insights about your online practices and how digital data are intertwined with it.
-- CSS Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
-- HTML Markup:
-  - Conveys knowledge of block-level vs. inline-level elements; and
-  - Passes HTML5 validation test. To test your site, copy/paste the URL of it within this tester: <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>.
-- CSS sheet:
-  - Structure of document adheres to discussed conventions:
-    - General styles up top and modifiers below, due to the cascade.
-    - Alike elements are grouped together, e.g., typography scheme, media, header elements, section elements, footer elements, etc.
-  - Provides consistent commenting scheme.
-- Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
-- Integrates text, visuals, and videos as a cohesive narrative about your digital practice / life.

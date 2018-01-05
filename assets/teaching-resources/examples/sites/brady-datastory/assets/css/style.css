@@ -1,0 +1,103 @@
+/*FONTS*/
+body {
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+h2 {
+text-align: center;
+}
+
+/*STYLE*/
+img[src="assets/img/me.JPG"] {
+  width: 95%;
+  }
+img[src="assets/img/jessica-brady2(1).png"] {
+  width: 60%;
+  }
+  
+.container {
+  display: grid;
+  grid-template-columns: 0.25fr 15px 0.75fr;
+  grid-template-rows: auto 25px auto 25px auto 25px auto;
+}
+/*GRID STYLE*/
+.grid {
+  background-color: #DCD3F4;
+  color: #fff;
+  padding: 25px;
+  font-size: 3rem;
+}
+.header {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  background: #ADAAB6;
+}
+
+.sidebar {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 3;
+  grid-row-end: 10;
+  background: #ADAAB6;
+}
+
+.content {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  background: #DCD3F4;
+  height: 500px;
+}
+
+.extra {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 5;
+  grid-row-end: 10;
+  background: #DCD3F4;
+  height: 500px;
+}
+/*VIDEO*/
+div.video-container {
+  /* This sets up the iframe code.
+      Note the absolute position
+      used for the iframe, and
+      the 0 values for top and left.
+      That tells the iframe to be
+      at the very top and very left
+      of this container div. */
+  position: relative;
+  width: 100%;
+}
+div.video-container iframe {
+  position: relative;
+  top: 0; right: 0;
+  margin-left: 15px;
+  min-width: 90%;
+  min-height: 100%;
+  margin-bottom: 15px
+}
+
+section#data-video {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+ margin-right: 15px;
+}
+
+
+
+
+ 
+  
+
+
+
+

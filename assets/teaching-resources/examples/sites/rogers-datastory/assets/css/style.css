@@ -1,0 +1,303 @@
+/* ========== font-families ========== */
+
+@font-face {font-family: 'typographica_1-webfont'; src:url('../font/typographica_1-webfont.woff') format('woff'); font-weight: normal; font-style: normal}
+@font-face {font-family: 'opensans-regular-webfont'; src:url('../font/opensans-regular-webfont.woff') format('woff'); font-weight: normal; font-style: normal}
+@font-face {font-family: 'opensans-lightitalic-webfont'; src:url('../font/opensans-lightitalic-webfont.woff') format('woff'); font-weight: normal; font-style: normal}
+
+/* ========== general styles ========== */
+
+html, body {
+	height: 100%;
+ 	margin: 0px;
+	padding: 0px;
+	overflow: scroll;
+}
+
+/* ========== header styles ========== */
+
+section#welcome {
+	background: url("../img/apple-music.jpg") no-repeat;
+	display: grid;
+	grid-template-columns: 40%;
+	background-size: cover;
+	min-height: 650px;
+}
+
+div.welcome-title p {
+	line-height: 150%;
+	color: white;
+	text-align: center;
+	font-size: 500%;
+	font-family: "typographica_1-webfont";
+}
+
+@media screen and (max-width: 1080px) {
+	div.welcome-title p {
+		font-size: 400%; }
+}
+
+div.welcome-title small {
+	color: white;
+	font-size: 100%;
+	font-family: "opensans-regular-webfont";
+	padding-left: 30%;
+	opacity: 0.5;
+}
+
+@media screen and (max-width: 1080px) {
+	div.welcome-title small {
+		display: none; }
+}
+
+/* ========== section styles ========== */
+
+section#intro-title div {
+	margin-top: 5%;
+}
+
+section#intro-content div {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+section#data-project div {
+	min-height: 250px;
+}
+
+div.svg-text {
+	background: #ceceee80;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	border: 5px white;
+		border-radius: 30px;
+		width: 70%;
+		border-style: solid;
+		border-width: thin;
+		display: inline-block;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-left: 10%;
+}
+
+div.svg {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border: black;
+	border-style: solid;
+	border-width: thin;
+}
+
+@media screen and (max-width: 1080px) {
+	div.svg {
+		align: center; }
+}
+
+section#apple-music-opener {
+	padding-top: 2%;
+}
+
+section#look-at-apple-music {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+@media screen and (max-width: 1080px) {
+	section#look-at-apple-music img {
+		margin-left: 4%; }
+}
+
+section#look-at-apple-music img {
+	width: 100%;
+	margin-top: 5%;
+	border: 1px black;
+	border-radius: 25px;
+	border-style: solid;
+	border-width: thin;
+ 	padding: 2%;
+}
+
+@media screen and (max-width: 1080px) {
+	section#look-at-apple-music img {
+		max-width: 50%; }
+}
+
+p.paragraph-border {
+	margin-left: 4%;
+	background: #ceceee80;
+	border: 5px white;
+		border-radius: 30px;
+		width: 80%;
+		border-style: solid;
+		border-width: thin;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		padding-left: 5%;
+		padding-right: 5%;
+}
+
+section#apple-music-closer {
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 3%;
+}
+
+div.video-explanation {
+	line-height: 175%;
+	min-height: 250px;
+	margin-top: 5%;
+	margin-bottom: 7%;
+	margin-left: 10%;
+	background: #ceceee80;
+    border: 5px white;
+		border-radius: 30px;
+		width: 70%;
+		border-style: solid;
+		border-width: thin;
+    display: inline-block;
+		padding-top: 1%;
+	 	padding-bottom: 1%;
+		padding-left: 5%;
+		padding-right: 5%;
+}
+
+div.video {
+	position: relative;
+	width: 100%;
+	margin-top: 7%;
+	margin-bottom: 10%;
+	margin-left: 10%;
+}
+
+div.video iframe {
+	position: absolute;
+	top: 0; left: 0;
+	width: 80%;
+	height: 100%;
+}
+
+@media screen and (max-width: 1080px) {
+	div.video iframe {
+		position: relative;
+		width: 800px;
+		height: 500px; }
+}
+
+/* ========== text styles ========== */
+
+div.white-space {
+	font-size: 50px;
+	color: #4c4c4cd6;
+	font-family: "opensans-lightitalic-webfont";
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	div.white-space {font-size: 60px;	}
+}
+
+div.intro-explanation {
+	font-size: 20px;
+	color: black;
+	font-family: "opensans-regular-webfont";
+	line-height: 175%;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	div.intro-explanation {	font-size: 30px; }
+}
+
+section#data-project h1 {
+	font-family: "opensans-lightitalic-webfont";
+	font-size: 40px;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	section#data-project h1 {font-size: 50px;	}
+}
+
+section#data-project p {
+	font-family: "opensans-regular-webfont";
+	font-size: 18px;
+	line-height: 175%;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	section#data-project p {
+		font-size: 30px; }
+}
+
+section#apple-music-opener {
+	font-family: "opensans-lightitalic-webfont";
+	font-size: 25px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	section#apple-music-opener {
+		font-size: 35px;}
+}
+
+div.apple-music-app {
+	line-height: 200%;
+	font-family: "opensans-regular-webfont";
+	font-size: 15px;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	div.apple-music-app {
+		font-size: 30px;}
+}
+
+section#apple-music-closer {
+	font-family: "opensans-lightitalic-webfont";
+	font-size: 25px;
+	margin-top: 5%;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	section#apple-music-closer {
+		font-size: 35px; }
+}
+
+div.video-explanation {
+	font-family: "opensans-regular-webfont";
+	font-size: 15px;
+	text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+	div.video-explanation {
+		font-size: 30px; }
+}
+
+/* ========== grid styles ========== */
+
+section#look-at-apple-music {
+	display: grid;
+	grid-gap: 10%;
+	grid-template-columns: repeat(auto-fit, minmax(1fr 1fr 1fr));
+}
+
+section#data-project,
+section#broader-implications {
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: repeat(auto-fit, minmax(1fr 1fr));
+}
+
+@media screen and (min-width: 1080px) {
+	section#look-at-apple-music { grid-template-columns: 1fr 1fr 1fr; }
+	section#data-project { grid-template-columns: 40% 1fr; }
+	section#broader-implications { grid-template-columns: 1fr 1fr; }
+}

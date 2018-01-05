@@ -1,0 +1,113 @@
+/* Aligns everything in the body to the center and raises the z-index to 100  */
+body {
+  margin: 0;
+  padding:0;
+  z-index: 1;
+}
+
+/* Fix iframe height issue */
+div.video-container {
+  position: relative;
+  width: 100%;
+}
+div.video-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  margin-left: 15px;
+  width: 80%;
+  height: 80%;
+}
+
+/* Introduction paragraph is centered in middle of the screen*/
+#introbox {
+  margin: auto;
+  border: 1px solid black;
+  width: 50%;
+  left: 25%;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  margin-top: 50px;
+}
+
+/* Cover image I selected for the header of the page*/
+#coverimage {
+	width: 100%;
+}
+
+/* Drew a solid black line down the center of the page*/
+#centerline {
+  position: fixed;
+  background-color: black;
+  width: 3px;
+  height: 100%;
+  left: 50%;
+  z-index: -1;
+}
+
+/* Incorporated inline-block elements to center divs inside this container*/
+#wrapper {
+  padding-top: 45px;
+}
+
+/* This is our grid for the columns created*/
+#grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 15px;
+  grid-auto-rows: auto;
+}
+
+#grid-container div {
+  padding: 15px;
+}
+/* Applies to all of the images on the page to fit their containers*/
+img {
+  width: 100%;
+}
+
+/* Content for the Social Practices box*/
+#socialpractice {
+  margin: auto;
+  border: 1px solid black;
+  width: 50%;
+  left: 25%;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  margin-top: 50px;
+
+}
+
+/* Content for the Now What box*/
+#nowwhat {
+  margin: auto;
+  border: 1px solid black;
+  width: 50%;
+  left: 25%;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  margin-top: 50px;
+
+}
+
+/* Create contrast by incorporating a black box at the bottom of the page*/
+#footerimage {
+  background-color: black;
+  height: 450px;
+  width: 100%;
+  margin-top: 50px;
+	padding-top: 50px;
+}
+
+/* Contrasted against the footer image by make the text white in the container*/
+#footerinfo {
+	color: white;
+	margin: auto;
+  border: 1px solid white;
+  width: 50%;
+  left: 25%;
+  height: auto;
+  padding: 10px;
+	}
