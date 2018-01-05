@@ -5,7 +5,7 @@ permalink: /projects/p2-visuals/
 points: "250"
 startdate: 2017-09-25
 enddate: 2017-10-16
-imgurl: /engl3844s18/images/deardata-examples.png
+imgurl: /images/deardata-examples.png
 imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)"
 ---
 
@@ -25,7 +25,7 @@ We will all be using Scalable Vector Graphics (SVG) to create our visualizations
 As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. However, since it is quite a complex practice to create visuals with SVGs, we will hand draw our data visualizations. We will subsequently use Inkscape to translate them into SVGs, as we will also learn about the basic SVG document structure (see image below).
 
 <figure id="twitter-css-body" class="figure-inline proj-img">
-  <img src="/engl3844s18/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />
+  <img src="/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />
   <figcaption>
     Caption: Tree diagram of an SVG object's markup body (excerpt from [Cukier, 2012](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)).
   </figcaption>
@@ -125,7 +125,7 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
     <tr>
       <td class="sixty">
-        Semantically-rich SVG markup
+        Semantically-rich SVG markup: Uses labels and IDs to name meaningful groups of the chart: data types, parts of the chart, etc.
       </td>
       <td class="fifteen">
         5
