@@ -5,7 +5,7 @@ permalink: /projects/p3-video/
 points: "200"
 startdate: 2017-10-23
 enddate: 2017-11-13
-imgurl: /engl3844s18/images/html5-video-main.png
+imgurl: /images/html5-video-main.png
 ---
 
 <ul class="project-top-info">
@@ -17,9 +17,9 @@ imgurl: /engl3844s18/images/html5-video-main.png
 
 ## Description
 
-During the first phase of the course, we collected and examined a small window into our everyday lives with some digital media or technology. We designed a data visualization that helped us understand and convey something interesting that happened during this period of time. Now, we enter the second phase of the course, wherein we research and develop content about a broader social issue connected to our everyday digital practices. As Gallagher noted, writers now write with and for algorithms, but we should understand and learn how people write algorithms to collect and use data about our digital practices.
+As we learned from Gallagher, writers now write with and for algorithms. Now, in the second phase of the course, we will approach the other side of Gallagher's call: To understand and learn how people write algorithms to collect and use data about our digital practices. Accordingly, each of you will research and compose a video that explains a broader social matter about how corporations and companies commodify user practices with digital media.
 
-Accordingly, your video explores and explains issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose and combine issues such as the following (and see the <a href="/resources/" target="_blank">Resources</a> page for some initial sources):
+To help you consider what to explain, consider some of the following topics, and be sure to see the <a href="/resources/" target="_blank">Resources</a> page for some initial sources:
 
   - <b>Algorithmic Audiences</b>: Pick up where we left off by digging deeper into how a people write and write with algorithms to serve-up and circulate content. What are the broader implications?
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
@@ -27,45 +27,73 @@ Accordingly, your video explores and explains issues linked to your digital medi
   - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
   - <b>User Rights</b>: Research government regulations and a company's End-User License Agreement (EULA). Such research serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
 
-<em>Overall, your goal is to research and create a short explanatory video about what can you learn about the data connected to your digital media practice</em>. We will analyze some videos within the genre of "[Complex-thing] Explained." You will pursue broader questions, such as the following: How do your own digital practices hook into business practices? And, what are your own opinions based on what you learned? These are just a few example questions to help you begin your own process to plan and create a short <i>Explained</i> video about such digital-life concerns.
+<em>Overall, your goal is to put your research skills into action, as you learn and apply video composition skills to create a short **explanatory** video about the data-collection practices connected to users' social media practices</em>. In class, we will learn their generic conventions that will provide us the common ground by nalyze some videos within the genre of "[Complex-thing] Explained."
 
-In class, I will review some more generic conventions that will provide us common ground. I will also form <i>ad hoc</i> groups based on what video editing software you decide to use for this project:
+To create the videos, I will create <i>ad hoc</i> groups based on what video editing software you decide to use for this project:
 
   - Adobe Premiere
-  - Lightworks (for PC)
+  - Lightworks or Windows MovieMaker (for PC)
   - Apple iMovie
 
- Based on your choice of topic and editing software, you will be sorted into groups that are conducive for sharing ideas, resources, and strategies.
-
-<figure id="twitter-css-body" class="figure-inline">
-  <img src="/engl3844s18/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
-  <figcaption>
-    Caption: Example of HTML5 video element in use.
-  </figcaption>
-</figure>
+ Based on your editing software, you will be sorted into groups that are conducive for sharing ideas, resources, and strategies.
 
 ## General process
 
 1. Learn about some basic video composition conventions of the <i>Explained</i> genre.
 2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
-3. Learn how to create a storyboard that outlines your video.
-4. Learn about basic video codecs and file formats.
-5. Create a 3-5 minute video.
+3. Learn about basic editing cuts and composition techniques.
+4. Learn how to create a storyboard that outlines your video.
+5. Learn about basic video codecs and file formats.
+6. Export and submit your 3-5 minute video.
 
 ## Rubric
 
-Your video(s):
+  <table class="table striped">
+    <thead>
+      <tr>
+        <th class="sixty">
+          R<span>ubric Criteria</span>
+        </th>
+        <th class="fifteen">
+          P<span>oints</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
 
-- Develops a new topic connected to your digital practice through secondary-source research.
-- Demonstrates meaningful decisions about what rhetorical purposes your video fulfills for your future single-page site.
-- Demonstrates application of basic composition strategies:
-  - Meaningful editing and composition moves: Narration, pans, zooms, trims, splits, cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
+      <tr>
+        <td class="sixty">
+          Secondary Research and Topic Development:
+          <ul>
+            <li>
+              Chooses particular data-related topic of interest.
+            </li>
+            <li>
+              Cites reference and footage materials.
+            </li>
+          </ul>
+        </td>
+        <td class="fifteen">
+          40
+        </td>
+      </tr>
 
-## Basic Act Structure
+      <tr>
+        <td class="sixty">
+          Video Cuts and Composition:
+          <ul>
+            <li>
+              Demonstrates knowledge of appropriate use of pertinent source materials for an "explained" genre.
+            </li>
+            <li>
+              Demonstrates appropriate use of the following basic editing and composition moves to create the "explained" video: Narration, pans, zooms, trims, splits, transitions (on motion, similar elements, or narrative connection), etc.
+            </li>
+          </ul>
+        </td>
+        <td class="fifteen">
+          60
+        </td>
+      </tr>
 
-Your video with the following 4 Acts:
-
-  1. DataViz Summary: What story does your dataviz tell?
-  2. What broader issues about data are linked to your digital practice?
-  3. How might you explain this issue to a novice audience?
-  4. Call to Action: What action can you and others take in lieu of this issue?
+    </tbody>
+  </table>
