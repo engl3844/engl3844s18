@@ -26,7 +26,8 @@ To guide us through this process, we will all share the following broader resear
 
 - Emotions felt as: Browsing Instagram feed, Texting
 - Use of emojis
--
+- How I use Spotify's machine-learning suggestion features
+- Netflix viewing habits
 
 ## General process
 
