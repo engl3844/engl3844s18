@@ -5,7 +5,7 @@ permalink: /projects/p4-html-css/
 points: "350"
 startdate: 2017-11-13
 enddate: 2017-12-20
-imgurl: /engl3844s18/images/wireframe-main.png
+imgurl: /images/wireframe-main.png
 ---
 
 <ul class="project-top-info">
@@ -36,24 +36,100 @@ In this final project, you will make decisions about how all of your media eleme
 
 ## Rubric
 
-**Website Content**:
-- Reviews insights about your online practices and how digital data are intertwined with it. Essentially, does it demonstrate that you have learned more about data, writing, and digital media in your life?
-- Integrates pertinent text, visuals, and videos to your datastory.
+<table class="table striped">
+  <thead>
+    <tr>
+      <th class="sixty">
+        R<span>ubric Criteria</span>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
 
-**HTML**:
-- Conveys knowledge of block-level vs. inline-level elements.
-- Demonstrates knowledge of parent and child block relationships, i.e. element hierarchies.
-- Passes HTML5 validation test. To test your site, copy/paste the URL of it within this tester: <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>.
-  + Some "Warnings" are okay, but fix the noted "Errors."
+    <tr>
+      <td class="sixty">
+        Website Content:
+        <ul>
+          <li>
+            Reviews insights about your online practices and how digital data are intertwined with it. Essentially, does it demonstrate that you have learned more about data, writing, and digital media in your life?
+          </li>
+          <li>
+            Integrates pertinent text, visuals, and videos to your datastory.
+          </li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        20
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        HTML:
+        <ul>
+          <li>
+            Conveys knowledge of block-level vs. inline-level elements.
+          </li>
+          <li>
+            Demonstrates knowledge of parent and child block relationships, i.e. element hierarchies.
+          </li>
+          <li>
+            Passes HTML5 validation test. To test your site, copy/paste the URL of it within this tester: <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>. Some "Warnings" are okay, but fix the noted "Errors."
+          </li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        40
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        CSS:
+        <ul>
+          <li>
+            Well-planned responsive grid with CSS3 Grid. Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
+          </li>
+          <li>
+            Structure of CSS document adheres to learned conventions:
+            <ul>
+              <li>
+                General styles up top and modifiers below, due to the cascade.
+              </li>
+              <li>
+                Alike elements are grouped together, e.g., typography scheme, media, header elements, section elements, footer elements, etc.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Provides consistent commenting scheme.
+          </li>
+          <li>
+            Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
+          </li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        40
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty" style="text-align:right;">
+        <b>Total</b>
+      </td>
+      <td class="fifteen">
+        <b>100</b>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 **CSS**:
-- Well-planned responsive grid with CSS3 Grid.
-  - Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
-- Structure of CSS document adheres to learned conventions:
-  - General styles up top and modifiers below, due to the cascade.
-  - Alike elements are grouped together, e.g., typography scheme, media, header elements, section elements, footer elements, etc.
-- Provides consistent commenting scheme.
-- Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
 
 ## Writing tools
 
