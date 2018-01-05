@@ -82,7 +82,7 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
     Data integrity: If necessary, logs changes, modifications, and/or omissions with data collection
   </li>
   <li>
-    Data types: Demonstrates knowledge of [nominal](https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level) and [ordinal](https://en.wikipedia.org/wiki/Ordinal_data) data, and a good mix of the 2 types.
+    Data types: Demonstrates knowledge of <a href="https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level" target="_blank">nominal</a> and <a href="https://en.wikipedia.org/wiki/Ordinal_data" target="_blank">ordinal data</a>, and a good mix of the 2 types.
   </li>
   <li>
     Consistently log your data in a Google Sheets spreadsheet every evening</li>
