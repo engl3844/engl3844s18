@@ -105,7 +105,18 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
     <tr>
       <td class="sixty">
-        Legend articulates relationships clearly:
+        Legend:
+        <ul>
+          <li>
+            Thoughtful organization of labels into corressponding categories.
+          </li>
+          <li>
+            Labels arranged in orderly fashion for increased readability.
+          </li>
+          <li>
+            Includes a title for your data visualization at the top.
+          </li>
+        </ul>
       </td>
       <td class="fifteen">
         10
