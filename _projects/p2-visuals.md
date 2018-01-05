@@ -47,8 +47,88 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## Rubric
 
-- Data-Set and Data-Viz reflect each other: Overall design expresses the categorical relationships that you set out to emphasize
-- Appropriate application of visualization conventions: Incorporates meaningful use of space and shapes to define and express your data story
-- Ethically represents your findings: Data represents your findings without masking its flaws or creating an unbalanced relationship between datum.
-- Legend articulates relationships clearly
-- Semantically-rich SVG markup
+<table class="table striped">
+  <thead>
+    <tr>
+      <th class="sixty">
+        R<span>ubric Criteria</span>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td class="sixty">
+        Chart Type:
+        <ul>
+          <li>
+            Emphasizes a refined set of relationships from your data set.
+          </li>
+          <li>
+            Layout helps amplify your desired findings and help your audience quickly understand such findings
+          </li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        35
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Marks and Attributes:
+        <ul>
+          <li>
+            Marks are not overly complex and help your audience quickly see the data represented and compared.
+          </li>
+          <li>
+            Use of a good color scheme to differentiate and compare marks. If applicable, color should coordinate with the meaning of the mark.
+          </li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        40
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Ethically represents your findings. For example, if proportion is important, carefully create sizes and do not use circular marks, etc.
+      </td>
+      <td class="fifteen">
+        10
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Legend articulates relationships clearly:
+      </td>
+      <td class="fifteen">
+        10
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Semantically-rich SVG markup
+      </td>
+      <td class="fifteen">
+        5
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty" style="text-align:right;">
+        <b>Total</b>
+      </td>
+      <td class="fifteen">
+        <b>100</b>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
