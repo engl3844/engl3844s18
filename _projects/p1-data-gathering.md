@@ -77,24 +77,78 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
 
 ## Rubric
 
-<ul>
-  <li>
-    Data integrity: If necessary, logs changes, modifications, and/or omissions with data collection
-  </li>
-  <li>
-    Data types: Demonstrates knowledge of <a href="https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level" target="_blank">nominal</a> and <a href="https://en.wikipedia.org/wiki/Ordinal_data" target="_blank">ordinal data</a>, and a good mix of the 2 types.
-  </li>
-  <li>
-    Consistently log your data in a Google Sheets spreadsheet every evening</li>
-  <li>
-    Follows basic <i>tidy data</i> guidelines:
-      <ul>
-        <li><b>Rows</b>: Clear unit indexed per row: Every instance that I do X; no spaces between rows.</li>
-        <li><b>Columns</b>: Meaningful column names; First column designated for unique identifier; Definitions applied with the notes feature; Format and arrangement of columns help outside readers and yourself understand and use the data.</li>
-        <li><b>Cells</b>: 1 value, consistency of values, modify sheet according to redundancies, and limited amount of more complex cell data (1 preferable; 2 at the most)</li>
-        <li><b>Sheets features</b>: Meaningful uses of some spreadsheet features: conditional formatting, frozen header, etc.</li>
-      </ul>
-  </li>
-  <li>
-    If deemed important for future consideration, contextualize datapoints with notes about the moment.</li>
-</ul>
+<table class="table striped">
+  <thead>
+    <tr>
+      <th class="sixty">
+        R<span>ubric Criteria</span>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <tr>
+    <td class="sixty">
+      Data structure that follows basic <i>tidy data</i> guidelines:
+        <ul>
+          <li><b>Rows</b>: Clear unit indexed per row: Every instance that I do X; no spaces between rows.</li>
+          <li><b>Columns</b>: Meaningful column names; First column designated for unique identifier; Definitions applied with the notes feature; Format and arrangement of columns help outside readers and yourself understand and use the data.</li>
+          <li><b>Cells</b>: 1 value, consistency of values, modify sheet according to redundancies, and limited amount of more complex cell data (1 preferable; 2 at the most)</li>
+          <li><b>Sheets features</b>: Meaningful uses of some spreadsheet features: conditional formatting, frozen header, etc.</li>
+        </ul>
+      </td>
+      <td class="fifteen">
+        50
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Data types: Demonstrates knowledge of <a href="https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level" target="_blank">nominal</a> and <a href="https://en.wikipedia.org/wiki/Ordinal_data" target="_blank">ordinal data</a>, and a good mix of the 2 types.
+      </td>
+      <td class="fifteen">
+        25
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Data integrity: If necessary, logs changes, modifications, and/or omissions with data collection.
+      </td>
+      <td class="fifteen">
+        10
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        If deemed important for future consideration, contextualize datapoints with notes about the moment. Data set should include at least 1 per day.
+      </td>
+      <td class="fifteen">
+        10
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Consistently log your data in a Google Sheets spreadsheet every evening.
+      </td>
+      <td class="fifteen">
+        5
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty" style="text-align:right;">
+        <b>Total</b>
+      </td>
+      <td class="fifteen">
+        <b>100</b>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
