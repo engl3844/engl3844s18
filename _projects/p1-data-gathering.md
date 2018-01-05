@@ -30,6 +30,8 @@ To guide us through this process, we will all share the following broader resear
 - How I use Spotify's machine-learning suggestion features
 - Netflix viewing habits
 
+Please note that these are but previous examples that may or may not suit your lifestyle. For a successful project, you need to consider projects that will enable you to collect at least ~10 observations per day. This will provide you with data for analysis.
+
 ## General process
 
 <figure id="twitter-css-body" class="figure-inline proj-img">
@@ -77,7 +79,11 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
 
 <ul>
   <li>
-    Data integrity: If necessary, logs changes, modifications, and/or omissions with data collection</li>
+    Data integrity: If necessary, logs changes, modifications, and/or omissions with data collection
+  </li>
+  <li>
+    Data types: Demonstrates knowledge of nominal and ordinal data, and a good mix of the 2 types.
+  </li>
   <li>
     Consistently log your data in a Google Sheets spreadsheet every evening</li>
   <li>
