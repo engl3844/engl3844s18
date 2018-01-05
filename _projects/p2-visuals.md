@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization for Your Web-Bound Data-Story"
+title: "Data Visualization"
 collection: projects
 permalink: /projects/p2-visuals/
 points: "250"

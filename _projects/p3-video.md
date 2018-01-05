@@ -1,5 +1,5 @@
 ---
-title: "'Explained' Video for Your Web-Bound Data-Story"
+title: "'Explained' Video"
 collection: projects
 permalink: /projects/p3-video/
 points: "200"
