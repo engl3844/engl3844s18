@@ -17,7 +17,7 @@ imgurl: /engl3844s18/images/wireframe-main.png
 
 ## Description
 
-In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative. You will learn about some fundamental HTML elements and their relationships and behaviors programmed with CSS. In short, you will write a web-ready narrative within a single-page website format.
+In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative that we have been calling your "Datastory." You will learn about some fundamental HTML elements and their relationships and behaviors programmed with CSS. In short, you will write a web-ready narrative within a single-page website format.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/engl3844s18/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
@@ -28,16 +28,16 @@ In this final project, you will make decisions about how all of your media eleme
 
 ## General process
 
-1. Learn how to set up and use a web-writing environment.
+1. Learn how to set up and use a web-writing environment: Git and Github and writing in a code editor.
 2. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
 3. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, how there are block and inline elements, how those elements can be written into hierarchies, and how they have <code>display</code> properties and behaviors.
-4. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
-5. Develop and refine your data-story narrative content.
+4. Learn about and apply basic CSS element selection and styling (box model), the CSS cascade, &amp; the CSS <code>Grid</code>, which will enable you to create a mobile-first website layout.
+5. Develop and refine content for your datastory.
 
 ## Rubric
 
 **Website Content**:
-- Amplifies a particular set of insights about your online practices and how digital data are intertwined with it.
+- Reviews insights about your online practices and how digital data are intertwined with it. Essentially, does it demonstrate that you have learned more about data, writing, and digital media in your life?
 - Integrates pertinent text, visuals, and videos to your datastory.
 
 **HTML**:
