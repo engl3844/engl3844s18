@@ -18,11 +18,7 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 ## Description
 
-After collecting your data, you will analyze your data, developing categories and codes for you to visualize. You will analyze and explore your data in tandem with learning some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
-
-We will all be using Scalable Vector Graphics (SVG) to create our visualizations destined for your respective data-story websites. These markup, graphical objects have long since been around, but have made recent strides in functionality over the past decade in lieu of HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
-
-As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. However, since it is quite a complex practice to create visuals with SVGs, we will hand draw our data visualizations. We will subsequently use Inkscape to translate them into SVGs, as we will also learn about the basic SVG document structure (see image below).
+In this graphic design project, you will learn how to make sound design decisions, how to represent data visually, and how to draw with Scalable Vector Graphics (SVGs). We will learn about basic types of charts, the fundamentals of marks and attributes for charts, and then how to draw SVGs in Inkscape.
 
 <figure class="figure-inline proj-img">
   <a href="/images/dv-fitbit.png" target="_blank">
@@ -39,17 +35,14 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## General process
 
-1. Learn about the basic data visualization conventions.
-2. Explore and analyze your data.
-3. Learn and choose what conventions help you tell your data-story meaningfully.
-4. Sketch your data visualization.
-5. Learn basic Inkscape skills.
-6. Scan your final drawing as a digital image onto your computer.
-7. Import the image into Inkscape.
-8. Use Inkscape to render your image as an SVG.
-9. Translate your image, as needed, using the available tools in Inkscape.
-10. Clean your SVG for the web, making it semantically rich.
-11. Export the SVG to submit.
+1. Learn about the basic data visualization conventions: types of charts, marks, and attributes.
+2. Explore and analyze your data by first plotting it out temporally by drawing it by hand.
+3. Decide what datapoints are most interesting and worth amplifying with another chart type, or a revision to the temporal chart.
+4. Learn basic Inkscape skills.
+5. Sketch your data visualization on paper.
+6. Draw your data visualization in Inkscape.
+7. Clean your SVG for the web, making it semantically rich.
+8. Export the SVG to submit as an Inkscape .svg and a .png bitmap image.
 
 ## Rubric
 
