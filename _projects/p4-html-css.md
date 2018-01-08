@@ -3,14 +3,14 @@ title: "HTML/CSS: Developing Your Data-Story"
 collection: projects
 permalink: /projects/p4-html-css/
 points: "350"
-startdate: 2017-11-13
-enddate: 2017-12-20
+startdate: 2018-04-03
+enddate: "TBA"
 imgurl: /images/wireframe-main.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 11/13 &ndash; 12/20</li>
+    <b>Timeframe</b>: 04/03 &ndash; TBA (some time just after finals weeks)</li>
   <li>
     <b>Points</b>: 350</li>
 </ul>
@@ -62,7 +62,7 @@ In this final project, you will make decisions about how all of your media eleme
         </ul>
       </td>
       <td class="fifteen">
-        20
+        70
       </td>
     </tr>
 
@@ -82,7 +82,7 @@ In this final project, you will make decisions about how all of your media eleme
         </ul>
       </td>
       <td class="fifteen">
-        40
+        140
       </td>
     </tr>
 
@@ -113,7 +113,7 @@ In this final project, you will make decisions about how all of your media eleme
         </ul>
       </td>
       <td class="fifteen">
-        40
+        140
       </td>
     </tr>
 
@@ -122,7 +122,7 @@ In this final project, you will make decisions about how all of your media eleme
         <b>Total</b>
       </td>
       <td class="fifteen">
-        <b>100</b>
+        <b>350</b>
       </td>
     </tr>
 

@@ -3,8 +3,8 @@ title: "Data Visualization"
 collection: projects
 permalink: /projects/p2-visuals/
 points: "250"
-startdate: 2017-09-25
-enddate: 2017-10-16
+startdate: 2018-02-26
+enddate: 2017-03-01
 imgurl: /images/deardata-examples.png
 imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)"
 ---
@@ -74,7 +74,7 @@ Below are 2 examples created by students in prior courses:
         </ul>
       </td>
       <td class="fifteen">
-        35
+        90
       </td>
     </tr>
 
@@ -91,7 +91,7 @@ Below are 2 examples created by students in prior courses:
         </ul>
       </td>
       <td class="fifteen">
-        40
+        100
       </td>
     </tr>
 
@@ -100,7 +100,7 @@ Below are 2 examples created by students in prior courses:
         Ethically represents your findings. For example, if proportion is important, carefully create sizes and do not use circular marks, etc.
       </td>
       <td class="fifteen">
-        10
+        20
       </td>
     </tr>
 
@@ -120,7 +120,7 @@ Below are 2 examples created by students in prior courses:
         </ul>
       </td>
       <td class="fifteen">
-        10
+        20
       </td>
     </tr>
 
@@ -129,7 +129,7 @@ Below are 2 examples created by students in prior courses:
         Semantically-rich SVG markup: Uses labels and IDs to name meaningful groups of the chart: data types, parts of the chart, etc.
       </td>
       <td class="fifteen">
-        5
+        10
       </td>
     </tr>
 
@@ -138,7 +138,7 @@ Below are 2 examples created by students in prior courses:
         <b>Total</b>
       </td>
       <td class="fifteen">
-        <b>100</b>
+        <b>250</b>
       </td>
     </tr>
 

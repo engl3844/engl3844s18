@@ -10,7 +10,7 @@ imgurl: /images/html5-video-main.png
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 10/23 &ndash; 11/13</li>
+    <b>Timeframe</b>: 03/13 &ndash; 04/03</li>
   <li>
     <b>Points</b>: 200</li>
 </ul>
@@ -74,7 +74,7 @@ To create the videos, I will create <i>ad hoc</i> groups based on what video edi
           </ul>
         </td>
         <td class="fifteen">
-          40
+          80
         </td>
       </tr>
 
@@ -91,7 +91,16 @@ To create the videos, I will create <i>ad hoc</i> groups based on what video edi
           </ul>
         </td>
         <td class="fifteen">
-          60
+          120
+        </td>
+      </tr>
+
+      <tr>
+        <td class="sixty" style="text-align:right;">
+          <b>Total</b>
+        </td>
+        <td class="fifteen">
+          <b>200</b>
         </td>
       </tr>
 
