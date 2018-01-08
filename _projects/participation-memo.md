@@ -3,9 +3,9 @@ title: "Participation Memo: <i>Ut Prosim</i>"
 collection: participation
 permalink: /projects/p6-participation/
 points: "100"
-startdate: 2017-08-28
-enddate: 2017-12-20
-imgurl: /engl3844s18/images/ut-prosim.jpg
+startdate: "near the end"
+enddate: "at the end"
+imgurl: /images/ut-prosim.jpg
 ---
 
 <ul class="project-top-info">
@@ -28,7 +28,7 @@ Complete your memo by responding to the following prompts:
 - Discuss how you contributed to the group activities.
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/engl3844s18/images/ut-prosim.jpg" alt="Image of head of the drillfield." />
+  <img src="/images/ut-prosim.jpg" alt="Image of head of the drillfield." />
   <figcaption>
     Caption: Head of the drillfield (src: <a href="https://www.flickr.com/photos/robwalters/100663253" target="_blank">R. Walters, Flickr.com, 2006</a>).
   </figcaption>
