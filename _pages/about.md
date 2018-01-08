@@ -13,7 +13,7 @@ Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I 
 1. Collecting and organizing [data](projects/p1-data-gathering/) about a personal digital media practice,
 2. Designing a [data visualization](projects/p2-visuals/) from the data,
 3. Researching and composing a [video](projects/p3-video/) that explains a complex issue about broader internet and web services, and
-4. Designing and writing a responsive website that reviews and integrates the media that you created throughout the course.
+4. Designing and writing a [website](projects/p4-html-css/) that reviews and integrates the media that you created throughout the course.
 
 **This course is production-heavy**, and it demands that you read the required texts and practice the assigned skills. Some weeks may prove lighter, while others more intensive. For example, near the end of the semester, we will learn how to create a responsive, single-page website, which requires devoted pratice of the skills that I ask you to hone through assigned homework. I note this nature of the course at the start of the semester to help you consider your time committment, so you can complete this course successfully.
 
