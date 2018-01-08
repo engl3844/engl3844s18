@@ -8,9 +8,14 @@ redirect_from:
   - /overview.html
 ---
 
-Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers.
+Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers. We will cover and practice such items through the following projects:
 
-**This course is production-heavy**, and it demands that you read the required texts and practice the assigned skills. Some weeks may prove lighter, while others more intensive. In particular, we will learn how to create a responsive, single-page website near the end of the semester. I note this at the start of the semester to help you make time to complete this course successfully.
+1. Collecting and organizing data about a personal digital media practice,
+2. Designing a data visualization from the data,
+3. Researching and composing a video that explains a complex issue about broader internet and web-based services, and
+4. Designing and writing a responsive website that reviews and integrates the media that you created throughout the course.
+
+**This course is production-heavy**, and it demands that you read the required texts and practice the assigned skills. Some weeks may prove lighter, while others more intensive. For example, near the end of the semester, we will learn how to create a responsive, single-page website, which requires devoted pratice of the skills that I ask you to hone through assigned homework. I note this nature of the course at the start of the semester to help you consider your time committment, so you can complete this course successfully.
 
 By the end of this course, you will have completed the following objectives:
 
