@@ -20,7 +20,7 @@ imgurl: /images/wireframe-main.png
 In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative that we have been calling your "Datastory." You will learn about some fundamental HTML elements and their relationships and behaviors programmed with CSS. In short, you will write a web-ready narrative within a single-page website format.
 
 <figure class="figure-inline">
-  <img src="/images/mobilefirst-layout.png" alt="Wireframe example of a site designed with mobile-first principles." />
+  <img src="/engl3844s18/images/mobilefirst-layout.png" alt="Wireframe example of a site designed with mobile-first principles." />
   <figcaption>
     Caption: Image conveying the mobile-first design principles. (src: <a href="https://uxplanet.org/responsive-design-best-practices-c6d3f5fd163b" target="_blank">Ux-Planet</a>, 2016)
   </figcaption>
