@@ -17,7 +17,7 @@ Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I 
 
 ## Course Intensity
 
-**This course is production-heavy**, and it demands that you read the required texts and practice the assigned skills. Some weeks may prove lighter, while others more intensive. For example, near the end of the semester, we will learn how to create a responsive, single-page website, which requires devoted pratice of the skills that I ask you to hone through assigned homework. I note this nature of the course at the start of the semester to help you consider your time committment, so you can complete this course successfully.
+**This course is production-heavy**, and it demands that you read the required texts and practice the assigned skills. Some weeks may prove lighter, while others more intensive. The beginning pace of the course is deliberatly slower to accomodate student drops and adds, as well as the conceptual content that we review in the first few weeks. From there, the pace quickens. Notably, near the end of the semester, the quick pace is sustained through the introduction of the website project for the remaining weeks of the course. This project is your final, but it requires you to devote time and energy upfront and throughout the project, so you can understand how to design and write your website. I note this nature of the course at the start of the semester to help you consider what time you can commit, so you can make an informed descision about your agreement to follow the schedule successfully.
 
 ## Objectives
 
