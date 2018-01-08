@@ -40,18 +40,3 @@ By the end of this course, you will have completed the following objectives:
     Recognize and use basic computational authoring syntaxes of <code>.html</code> & <code>.css</code>.
   </li>
 </ul>
-
-## VT Principles of Community
-
-<ul class="visual-list">
-  <li>
-    <span>Diginity &amp; Value</span></li>
-  <li>
-    <span>Civility &amp; Sensibility</span></li>
-  <li>
-    <span>Diviersity &amp; Difference</span></li>
-  <li>
-    <span>Prejudice &amp; Discrimination</span></li>
-  <li>
-    <span><i>Ut Prosim</i> (That I May Serve)</span></li>
-</ul>
