@@ -23,12 +23,12 @@ In this graphic design project, you will learn how to make sound design decision
 Below are 2 examples created by students in prior courses:
 
 <figure class="figure-inline proj-img">
-  <a href="/images/dv-fitbit.png" target="_blank">
-    <img src="/images/dv-fitbit.png" alt="Student example of a data visualization about their engagement with Fitbit." />
+  <a href="/engl3844s18/images/dv-fitbit.png" target="_blank">
+    <img src="/engl3844s18/images/dv-fitbit.png" alt="Student example of a data visualization about their engagement with Fitbit." />
   </a>
   <br />
-  <a href="/images/instagram-emotions-dataviz.png" target="_blank">
-    <img src="/images/instagram-emotions-dataviz.png" alt="Student example of a data visualization about their emotional responses to Instagram feed." />
+  <a href="/engl3844s18/images/instagram-emotions-dataviz.png" target="_blank">
+    <img src="/engl3844s18/images/instagram-emotions-dataviz.png" alt="Student example of a data visualization about their emotional responses to Instagram feed." />
   </a>
   <figcaption>
     Caption: Two example projects from prior students.
