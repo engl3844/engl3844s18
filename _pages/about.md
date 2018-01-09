@@ -25,18 +25,18 @@ By the end of this course, you will have completed the following objectives:
 
 <ul class="hokie-shade">
   <li>
-    Design and produce digital media, including a functional data set about your media habits, graphics, sound and video.
+    Design and produce digital media: A functional data set about your media habits, a data visualization from that data, and a video that integrates audio, images, and clips to explain a complex issue about digital data.
   </li>
   <li>
     Inventory digital media technologies and appraise their influence and import over time.
   </li>
   <li>
-    Recognize and use copyleft resources to produce digital media.
+    Recognize, use, and cite copyleft resources to produce digital media.
+  </li>
+  <li>
+    Recognize and use basic computational authoring syntaxes of <code>.html</code> & <code>.css</code>. Specifically, you will learn about the different types of HTML elements, different types of CSS selection skills, and how to create a simple responsive grid layout.
   </li>
   <li>
     Develop a critical awareness about writing <i>as</i> digital media and <i>shaped by</i> digital media. Specifically, you will learn how digital data are written and collected about your media practices online for a variety of purposes and audiences.
-  </li>
-  <li>
-    Recognize and use basic computational authoring syntaxes of <code>.html</code> & <code>.css</code>.
   </li>
 </ul>
