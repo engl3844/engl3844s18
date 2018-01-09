@@ -3,7 +3,7 @@ title: "Data Visualization"
 collection: projects
 permalink: /projects/p2-visuals/
 points: "250"
-startdate: 2018-02-26
+startdate: 2018-02-13
 enddate: 2018-03-01
 imgurl: /images/deardata-examples.png
 imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)"
@@ -11,7 +11,7 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 02/26 &ndash; 03/01</li>
+    <b>Timeframe</b>: 02/13 &ndash; 03/01</li>
   <li>
     <b>Points</b>: 250</li>
 </ul>
@@ -74,7 +74,7 @@ Below are 2 examples created by students in prior courses:
         </ul>
       </td>
       <td class="fifteen">
-        90
+        100
       </td>
     </tr>
 

@@ -4,14 +4,14 @@ collection: projects
 permalink: /projects/p1-data-gathering/
 points: "100"
 startdate: 2018-01-16
-enddate: 2018-02-26
+enddate: 2018-02-13
 imgurl: /images/posavec-data-gathering.png
 imgurl2: /images/posavec-dataset-meaningmaking.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 01/16 &ndash; 02/26</li>
+    <b>Timeframe</b>: 01/16 &ndash; 02/13</li>
   <li>
     <b>Points</b>: 100</li>
 </ul>
