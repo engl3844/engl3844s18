@@ -4,14 +4,14 @@ collection: projects
 permalink: /projects/p2-visuals/
 points: "250"
 startdate: 2018-02-26
-enddate: 2017-03-01
+enddate: 2018-03-01
 imgurl: /images/deardata-examples.png
 imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)"
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 09/25 &ndash; 10/20</li>
+    <b>Timeframe</b>: 02/26 &ndash; 03/01</li>
   <li>
     <b>Points</b>: 250</li>
 </ul>
@@ -109,7 +109,7 @@ Below are 2 examples created by students in prior courses:
         Legend:
         <ul>
           <li>
-            Thoughtful organization of labels into corressponding categories.
+            Thoughtful organization of labels into corresponding categories.
           </li>
           <li>
             Labels arranged in orderly fashion for increased readability.

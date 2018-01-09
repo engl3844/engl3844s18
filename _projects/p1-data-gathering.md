@@ -11,7 +11,7 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 08/28 &ndash; 09/10</li>
+    <b>Timeframe</b>: 01/16 &ndash; 02/26</li>
   <li>
     <b>Points</b>: 100</li>
 </ul>
