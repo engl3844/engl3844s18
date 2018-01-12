@@ -198,13 +198,26 @@ schedule:
       tue:
         - date: 2018-04-17
           desc: 'Review HTML Basics and Practice Git Versioning'
-          readings: [ 'TBA', '<!-- Read about containing blocks -->' ]
-          assign: [ 'TBA', '<!-- Include HW with the production of an HTML5 website. See https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/ Students must identify containing blocks -->' ]
+          readings: [ 'TBA <!-- Read about containing blocks -->' ]
+          assign: [ 'TBA <!-- Include HW with the production of an HTML5 website. See https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/ Students must identify containing blocks -->' ]
       thu:
         - date: 2018-04-19
           desc: 'Fundamentals of CSS'
           readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
-          assign: [ 'TBA', '<!-- Revise lecture -->' ]
+          assign: [ 'TBA <!-- Revise lecture -->' ]
+
+    - num: 15
+      wkh: 'Practice CSS Selection &amp; CSS3 Grid'
+      tue:
+        - date: 2018-04-24
+          desc: 'Review CSS Basics and Understanding the Cascade'
+          readings: [ 'TBA <!-- Read about containing blocks -->' ]
+          assign: [ 'TBA <!-- Include HW with selection types and cascade work -->' ]
+      thu:
+        - date: 2018-04-26
+          desc: 'Introduce CSS3 Grid, Responsive, and Mobile-First Design'
+          readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].', 'Rachel Andrews, <cite>Grid by Example</cite> Video Tutorials: <a href="https://gridbyexample.com/video/series-define-a-grid/" target="_blank">Defining a grid</a>, <a href="https://gridbyexample.com/video/series-the-fr-unit/" target="_blank">The <code>fr</code> unit</a>, <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a>, <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>' ]
+          assign: [ 'Create a new practice folder and add it to your Github App.', 'Then do the following: <ol><li>Create an HTML document with 3 different parent containing block <code>article</code> elements.</li><li>In the first, write 6 children <code>section</code> elements.</li><li>In the second, 8 children <code>section</code> elements.</li><li>In the third, 4 children <code>section</code> elements.</li><li>Be sure to label each child element with a heading that marks their position in the order. Plus, define <code>boackground-color</code> and <code>height</code> values to the children elements, so you can see the results.</li><li>Now, use the <code>display: grid</code> to bring these 3 different article elements to life in 3 different ways. You may want to play around with the height values in order to achieve different results.<br />Please do not copy and paste from these sites. Instead, write out some examples of your own. However, you can, of course, base your ideas off of the plethora of available examples.<br /><br /><strong>NOTE</strong>: At least one of your examples needs to be responsive.</ol>' ]
 ---
 
 - num: 2
