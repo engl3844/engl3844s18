@@ -191,7 +191,20 @@ schedule:
         - date: 2018-04-12
           desc: 'Fundamentals of HTML'
           readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
-          assign: [ 'TBA' ]
+          assign: [ 'TBA', '<!-- Revise lecture and assign procedure of HTML to write and version with Github -->' ]
+
+    - num: 14
+      wkh: 'HTML Containing Blocks + Introduce CSS'
+      tue:
+        - date: 2018-04-17
+          desc: 'Review HTML Basics and Practice Git Versioning'
+          readings: [ 'TBA', '<!-- Read about containing blocks -->' ]
+          assign: [ 'TBA', '<!-- Include HW with the production of an HTML5 website. See https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/ Students must identify containing blocks -->' ]
+      thu:
+        - date: 2018-04-19
+          desc: 'Fundamentals of CSS'
+          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
+          assign: [ 'TBA', '<!-- Revise lecture -->' ]
 ---
 
 - num: 2
