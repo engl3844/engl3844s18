@@ -181,7 +181,7 @@ schedule:
           assign: [ 'After reading Travis, analyze and take notes about how you see these different sites apply CRAP design principles. Come prepared to collate how single-page websites seem to apply particular design conventions for us to follow.' ]
 
     - num: 13
-      wkh: ''
+      wkh: 'Introducing Fundamentals of Web Design Activity'
       tue:
         - date: 2018-04-10
           desc: 'Basic project architecture + Git versioning'
