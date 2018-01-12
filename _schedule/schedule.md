@@ -218,6 +218,21 @@ schedule:
           desc: 'Introduce CSS3 Grid, Responsive, and Mobile-First Design'
           readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].', 'Rachel Andrews, <cite>Grid by Example</cite> Video Tutorials: <a href="https://gridbyexample.com/video/series-define-a-grid/" target="_blank">Defining a grid</a>, <a href="https://gridbyexample.com/video/series-the-fr-unit/" target="_blank">The <code>fr</code> unit</a>, <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a>, <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>' ]
           assign: [ 'Create a new practice folder and add it to your Github App.', 'Then do the following: <ol><li>Create an HTML document with 3 different parent containing block <code>article</code> elements.</li><li>In the first, write 6 children <code>section</code> elements.</li><li>In the second, 8 children <code>section</code> elements.</li><li>In the third, 4 children <code>section</code> elements.</li><li>Be sure to label each child element with a heading that marks their position in the order. Plus, define <code>boackground-color</code> and <code>height</code> values to the children elements, so you can see the results.</li><li>Now, use the <code>display: grid</code> to bring these 3 different article elements to life in 3 different ways. You may want to play around with the height values in order to achieve different results.<br />Please do not copy and paste from these sites. Instead, write out some examples of your own. However, you can, of course, base your ideas off of the plethora of available examples.<br /><br /><strong>NOTE</strong>: At least one of your examples needs to be responsive.</ol>' ]
+
+    - num: 16
+      wkh: 'Prototyping and finalizing the course.'
+      tue:
+        - date: 2018-05-01
+          desc: 'Prototype your layout and website.'
+          readings: [ 'Read the Participation Memo project page.' ]
+          assign: [ 'Complete your prototype to bring to class. We will have time to problem solve and consider what you need to do to complete and submit it for the final.' ]
+
+    - num: 17
+      wkh: 'FINALS'
+      tue:
+        - date: "TBA"
+          desc: 'FINALS DUE'
+          assign: [ 'Submit your revised projects, participation memo, and revision memo within a Google Drive folder. IF you revise your dataviz, be sure to share the SVG and a .png file, so I can see what you see on your computer. Name your revision folder with the following scheme: <em>lastname-firstinitial-3844f17-finals</em>. When you share it with me, use the message function to also provide the Github URL to your website.<br/><br/><b>Submit a revision memo within the finals folder</b> that reviews all of your revisions based on the provided feedback. Explain what you changed and why. You can use the same template as the participation memo, but make the obvious changes to the filename and subject line.' ]
 ---
 
 - num: 2
