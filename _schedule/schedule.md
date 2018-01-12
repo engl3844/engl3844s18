@@ -191,7 +191,7 @@ schedule:
         - date: 2018-04-12
           desc: 'Fundamentals of HTML'
           readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
-          assign: [ 'Fork, review, and play around the following Codepens: <a href="https://codepen.io/lndgrn/full/PmMPog/" target="_blank">Basic HTML Anatomy</a> and <a href="https://codepen.io/lndgrn/pen/zdymKE" target="_blank">Block and Inline Elements</a>', 'Fork and write a basic website from scratch with this Codepen: <a href="https://codepen.io/lndgrn/pen/dZzVGQ" target="_blank">Introduction to HTML</a>' ]
+          assign: [ 'TBA' ]
 ---
 
 - num: 2
