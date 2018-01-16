@@ -34,11 +34,8 @@ schedule:
       thu:
         - date: 2018-01-25
           desc: 'Research Topic, Questions, &amp; Data Collection'
-          readings: [
-            'Research Invention Instructions. [<a href="https://docs.google.com/a/vt.edu/document/d/1XZR-bzknMG4B_BCbfGMxF2bZaEKmbR9LK7AoGNfbQyA/edit?usp=sharing" target="_blank">Link</a>]',
-            '<span style="text-decoration: line-through;">Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]</span>. Skip this reading for now. We will cover this concept during the 2nd phase of the course.'
-          ]
-          assign: [ 'Follow the directions on Research Invention handout.', 'Follow the directions in the Data-Collection Handout [<a href="https://docs.google.com/a/vt.edu/document/d/1fjjkzvF7zwcSueL2s7FSKeq1v6Lrxk0ORX0WWdJHuoU/edit?usp=sharing" target="_blank">Link</a>]. You will create a draft Spreadsheet and Data-Collection Plan.' ]
+          readings: [ 'Research Invention Instructions. [<a href="#" target="_blank">Link to come</a>]' ]
+          assign: [ 'Follow the directions on Research Invention handout.', 'Follow the directions in the Data-Collection Handout [<a href="#" target="_blank">Link to come</a>]. You will create a draft Spreadsheet and Data-Collection Plan.' ]
 
     - num: 3
       wkh: 'Student Data Conferences'
