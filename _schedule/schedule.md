@@ -15,7 +15,7 @@ schedule:
       thu:
         - date: 2018-01-18
           desc: 'Introductions with your data-story curiousities'
-          readings: [ 'Read the <a href="/projects/p1-data-gathering/">Data-Collection</a> project','Giorgia Lupi. (7 Nov. 2015). <a href="https://www.youtube.com/watch?v=SbqNEKygFiA">Data [are] about people.</a> (You can skip the "Friends in Space" project: ~2:35-6:45)' ]
+          readings: [ 'Read the <a href="/engl3844s18/projects/p1-data-gathering/">Data-Collection</a> project','Giorgia Lupi. (7 Nov. 2015). <a href="https://www.youtube.com/watch?v=SbqNEKygFiA">Data [are] about people.</a> (You can skip the "Friends in Space" project: ~2:35-6:45)' ]
           assign: [ 'Take notes about the main takeaways about the Dear Data project. Consider how you see me translating the Dear Data project into this course. Jot down some questions and comments to share.', 'Come prepared to re-introduce yourself today by sharing what digital media / technology practice that you may end up studying and writing about this semester. Please note that this topic is not set in stone, but simply a curiousity to share.']
 
     - num: 2
