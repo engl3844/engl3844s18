@@ -22,7 +22,7 @@ Perhaps you are aware that most software companies rely on collecting, organizin
 
 To better prepare you as citizens and professionals, we will respond to this datafication with a project that challenges you to learn how digital media and data are intertwined, since businesses produce data sets as integral texts about our everyday communication activities. Accordingly, this first project involves collecting, organizing, and creating a set of data in Google Sheets for 5 days about your everyday digital media practices.
 
-This data set is your first step to think more explicitly about how digital data and our digital media practices are closely linked, as well as about how such sets of data are a form of digital media too. Furthermre, your data set will serve as the inventive seed by which your datastory's narrative grows. In particular, the analysis of your data will shape the direction, quality, and design of your next project: the data visualization.
+This data set is your first step to think more explicitly about how digital data and our digital media practices are closely linked, as well as about how such sets of data are a form of digital media too. Furthermore, your data set will serve as the inventive seed by which your datastory's narrative grows. In particular, the analysis of your data will shape the direction, quality, and design of your next project: the data visualization.
 
 The main aim of this data collection is **NOT** statistical insight nor applying quasi-experimental design strategies, but to explore, examine, and gain insight into your writing practices and how digital media and data permeate it. In doing so, we will try to understand how digital media performs and communicates much more than what we may have originally thought.
 
@@ -111,7 +111,7 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
 
     <tr>
       <td class="sixty">
-        Data types: Demonstrates knowledge of <a href="https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level" target="_blank">nominal</a> and <a href="https://en.wikipedia.org/wiki/Ordinal_data" target="_blank">ordinal data</a>, and a good mix of the 2 types.
+        Data types: Demonstrates knowledge of <a href="https://en.wikipedia.org/wiki/Level_of_measurement#Nominal_level" target="_blank">nominal</a>, <a href="https://en.wikipedia.org/wiki/Ordinal_data" target="_blank">ordinal</a>, and categorical types of data, collecting a good mix of the 3 types.
       </td>
       <td class="fifteen">
         25
