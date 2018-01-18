@@ -26,10 +26,10 @@ schedule:
             'Gallagher, J. (2017). Writing for algorithmic audiences. <i>Computers &amp; Composition, 45</i>, pp. 25-30. [<a href="/assets/readings/candc-gallaghar-2017-writing-alg-audiences.pdf">Link</a>]',
             'Hill, Kashmir. (2017 Jul. 07). What happens when you tell the internet you are pregnant. Jezebel. [<a href="http://jezebel.com/what-happens-when-you-tell-the-internet-youre-pregnant-1794398989" target="_blank">Outbound Link</a>]',
             'Aldrich, Chris. (2017). The Facebook Algorithm Mom Problem. Buffo Socko [Medium.com Blog]. [<a href="https://medium.com/boffo-socko/the-facebook-algorithm-mom-problem-356e5005092e" target="_blank">Outbound Link</a>]',
-            'Sinders, Caroline. (2017). Dear Elon–Forget Killer Robots. Here’s What You Should Really Worry About. Fast Company/Co.Design. [<a href="https://www.fastcodesign.com/90137818/dear-elon-forget-killer-robots-heres-what-you-should-really-worry-about" target="_blank">Outbound Link</a>]'
+            'Bertand, N. (05 Oct. 2017). <a href="http://www.businessinsider.com/reach-of-russian-facebook-propaganda-content-2017-10" target="_blank">New data shows that Russian propaganda may have been shared billions of times on Facebook</a>. Business Insider.'
           ]
           assign: [
-            'Take notes about how Gallagher defines the different types and properties or those types of audiences. After reading it, and the other 3 popular pieces, consider the following dyadic questions for discussion: How are audiences digital media? And, how are digital media audiences?'
+            'Take notes about how Gallagher defines algorithmic audiences: its different types and properties, as he notes them in the article. Please include page numbers in your notes for quick reference in class. After reading it, and the other 3 popular pieces, consider the following questions for discussion: How (does) this concept of audience change your understanding of your reading and writing habits with digital technologies? How do you perceive ways in which data and digital media practices linked? What are some examples of algorithmic audiences from your everyday life?'
           ]
       thu:
         - date: 2018-01-25
