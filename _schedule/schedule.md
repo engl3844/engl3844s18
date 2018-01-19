@@ -23,7 +23,7 @@ schedule:
       tue:
         - date: 2018-01-23
           readings: [
-            'Gallagher, J. (2017). Writing for algorithmic audiences. <i>Computers &amp; Composition, 45</i>, pp. 25-30. [<a href="/assets/readings/candc-gallaghar-2017-writing-alg-audiences.pdf">Link</a>]',
+            'Gallagher, J. (2017). Writing for algorithmic audiences. <i>Computers &amp; Composition, 45</i>, pp. 25-30. [<a href="/engl3844s18/assets/readings/candc-gallaghar-2017-writing-alg-audiences.pdf">Link</a>]',
             'Hill, Kashmir. (2017 Jul. 07). What happens when you tell the internet you are pregnant. Jezebel. [<a href="http://jezebel.com/what-happens-when-you-tell-the-internet-youre-pregnant-1794398989" target="_blank">Outbound Link</a>]',
             'Aldrich, Chris. (2017). The Facebook Algorithm Mom Problem. Buffo Socko [Medium.com Blog]. [<a href="https://medium.com/boffo-socko/the-facebook-algorithm-mom-problem-356e5005092e" target="_blank">Outbound Link</a>]',
             'Bertand, N. (05 Oct. 2017). <a href="http://www.businessinsider.com/reach-of-russian-facebook-propaganda-content-2017-10" target="_blank">New data shows that Russian propaganda may have been shared billions of times on Facebook</a>. Business Insider.'
