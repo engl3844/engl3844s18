@@ -34,8 +34,8 @@ schedule:
       thu:
         - date: 2018-01-25
           desc: 'Research Topic, Questions, &amp; Data Collection'
-          readings: [ 'Research Invention Instructions. [<a href="#" target="_blank">Link to come</a>]' ]
-          assign: [ 'Follow the directions on Research Invention handout.', 'Follow the directions in the Data-Collection Handout [<a href="#" target="_blank">Link to come</a>]. You will create a draft Spreadsheet and Data-Collection Plan.' ]
+          readings: [ 'Research Invention Instructions. [<a href="https://docs.google.com/document/d/1XZR-bzknMG4B_BCbfGMxF2bZaEKmbR9LK7AoGNfbQyA/edit?usp=sharing" target="_blank">Drive Link</a>]', 'Data-Collection Planning. [<a href="https://docs.google.com/document/d/1fjjkzvF7zwcSueL2s7FSKeq1v6Lrxk0ORX0WWdJHuoU/edit?usp=sharing" target="_blank">Drive Link</a>]' ]
+          assign: [ 'Follow the directions on Research Invention handout.', 'Follow the directions in the Data-Collection Handout [<a href="https://docs.google.com/document/d/1fjjkzvF7zwcSueL2s7FSKeq1v6Lrxk0ORX0WWdJHuoU/edit?usp=sharing" target="_blank">Drive Link</a>]. You will create a draft Spreadsheet and Data-Collection Plan.' ]
 
     - num: 3
       wkh: 'Student Data Conferences'
