@@ -55,15 +55,15 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Spreadsheet strategies + Types of Charts'
-          readings: [ 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 150-206. (Download pp. <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRbjN5YVhwcnBINHM/view?usp=sharing" target="_blank">150-160</a>, <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRNVMybVJLQnlzRE0/view?usp=sharing" target="_blank">161-206</a>)' ]
-          assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
+          readings: [ 'Read the <a href="/engl3844s18/projects/p2-visuals/" target="_blank">Data Vizualization page</a>.' ]
+          assign: [ 'Data collection starts on Monday (02/05). Jot down difficulties and issues that you wish to bring up during class.' ]
           other: [ 'One-quarter of class will be devoted to tips and strategies to produce a readable data set; the other portion will open up our discussion to different types of data-visualization charts.' ]
       thu:
         - date: 2018-02-08
           desc: 'Spreadsheet strategies + Types of Charts, continued'
           readings: [ 'Review Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 150-206. (Download pp. <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRbjN5YVhwcnBINHM/view?usp=sharing" target="_blank">150-160</a>, <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRNVMybVJLQnlzRE0/view?usp=sharing" target="_blank">161-206</a>)' ]
-          assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
-          other: [ 'One-quarter of class will be devoted to tips and strategies to produce a readable data set; the other portion will continue our discussion about different types of data-visualization charts.' ]
+          assign: [ 'Keep collecting your data jotting down difficulties and issues that you wish to bring up during class.' ]
+          other: [ 'One-quarter of class will be devoted to tips and strategies to produce a readable data set; the other portion will introduce different types of charts, marks, and attributes.' ]
 
     - num: 5
       startproj: true
