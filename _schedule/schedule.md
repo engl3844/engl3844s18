@@ -55,7 +55,7 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Spreadsheet strategies + Types of Charts'
-          readings: [ 'Read the <a href="/engl3844s18/projects/p2-visuals/" target="_blank">Data Vizualization page</a>.' ]
+          readings: [ 'Read the <a href="/engl3844s18/projects/p2-visuals/" target="_blank">Data Visualization page</a>.' ]
           assign: [ 'Data collection starts on Monday (02/05). Jot down difficulties and issues that you wish to bring up during class.' ]
           other: [ 'One-quarter of class will be devoted to tips and strategies to produce a readable data set; the other portion will open up our discussion to different types of data-visualization charts.' ]
       thu:
