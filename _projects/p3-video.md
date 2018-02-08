@@ -3,14 +3,14 @@ title: "'Explained' Video"
 collection: projects
 permalink: /projects/p3-video/
 points: "200"
-startdate: 2018-03-13
-enddate: 2018-04-03
+startdate: 2018-02-27
+enddate: 2018-03-29
 imgurl: /images/html5-video-main.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 03/13 &ndash; 04/03</li>
+    <b>Timeframe</b>: 02/27 &ndash; 03/29</li>
   <li>
     <b>Points</b>: 200</li>
 </ul>
