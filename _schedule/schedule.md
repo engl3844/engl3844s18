@@ -77,7 +77,7 @@ schedule:
       thu:
         - date: 2018-02-15
           desc: 'Start practicing basic Inkscape skills'
-          readings: [ 'Watch and practice along with Rankin, M. (2015). Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          readings: [ 'Watch and practice along with Rankin, M. (2015). Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Complete the above training video.', 'Revise your dataviz ideas, based on insights garnered from your temporal chart. Draft a very rough sketch of the new chart and take notes about this process. Bring those materials to class, because we will hold peer group discussion about what avenues to take next.' ]
           other: [ 'In class, we will also review some of the trickier skills covered in the tutorials, so bring your laptops.' ]
 
@@ -86,7 +86,7 @@ schedule:
       tue:
         - date: 2018-02-20
           desc: 'Basic drawing in Inkscape and drafting your data visualizations'
-          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]', 'Inkscape Essential Training: 4. Transforming Objects &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]', 'Inkscape Essential Training: 4. Transforming Objects &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Complete the above training videos.', 'Draft your own data visualizations in Inkscape.' ]
       thu:
         - date: 2018-02-22
