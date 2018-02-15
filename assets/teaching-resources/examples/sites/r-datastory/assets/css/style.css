@@ -7,33 +7,43 @@
 /* ========== general styles ========== */
 
 html, body {
-	height: 100%;
- 	margin: 0px;
-	padding: 0px;
-	overflow: scroll;
+	font-size: 18px;
+	margin: 0px;
 }
 
 /* ========== header styles ========== */
 
-section#welcome {
+header#welcome {
 	background: url("../img/apple-music.jpg") no-repeat;
 	display: grid;
 	grid-template-columns: 40%;
 	background-size: cover;
-	min-height: 650px;
+	height: auto;
+	padding-bottom: 15px;
 }
 
-div.welcome-title p {
-	line-height: 150%;
+div.welcome-title h1 {
+	line-height: 1.25;
 	color: white;
 	text-align: center;
-	font-size: 500%;
+	font-size: 5rem;
 	font-family: "typographica_1-webfont";
 }
 
 @media screen and (max-width: 1080px) {
-	div.welcome-title p {
-		font-size: 400%; }
+	div.welcome-title h1 {
+		font-size: 3rem;
+	}
+}
+@media (min-width: 331px) and (max-width: 500px) {
+	header#welcome {
+		grid-template-columns: 60%;
+	}
+}
+@media (min-width: 0px) and (max-width: 330px) {
+	header#welcome {
+		grid-template-columns: 100%;
+	}
 }
 
 div.welcome-title small {
@@ -55,11 +65,9 @@ section#intro-title div {
 	margin-top: 5%;
 }
 
-section#intro-content div {
-	padding-top: 2%;
-	padding-bottom: 2%;
-	padding-left: 7%;
-	padding-right: 7%;
+section#intro-content {
+	padding: 10%;
+	font-size: 1.25rem;
 }
 
 section#data-project div {
@@ -86,14 +94,10 @@ div.svg-text {
 div.svg {
 	margin-top: 5%;
 	margin-bottom: 5%;
+	padding: 5%;
 	border: black;
 	border-style: solid;
 	border-width: thin;
-}
-
-@media screen and (max-width: 1080px) {
-	div.svg {
-		align: center; }
 }
 
 section#apple-music-opener {
@@ -123,20 +127,6 @@ section#look-at-apple-music img {
 @media screen and (max-width: 1080px) {
 	section#look-at-apple-music img {
 		max-width: 50%; }
-}
-
-p.paragraph-border {
-	margin-left: 4%;
-	background: #ceceee80;
-	border: 5px white;
-		border-radius: 30px;
-		width: 80%;
-		border-style: solid;
-		border-width: thin;
-		padding-top: 1%;
-		padding-bottom: 1%;
-		padding-left: 5%;
-		padding-right: 5%;
 }
 
 section#apple-music-closer {
@@ -189,31 +179,23 @@ div.video iframe {
 /* ========== text styles ========== */
 
 div.white-space {
-	font-size: 50px;
+	font-size: 1.5em;
 	color: #4c4c4cd6;
 	font-family: "opensans-lightitalic-webfont";
-	text-align: center;
 }
 
-@media screen and (max-width: 1080px) {
-	div.white-space {font-size: 60px;	}
-}
-
-div.intro-explanation {
-	font-size: 20px;
-	color: black;
+div.intro-explanation p {
+	font-size: 1.1em;
 	font-family: "opensans-regular-webfont";
-	line-height: 175%;
-	text-align: center;
 }
 
 @media screen and (max-width: 1080px) {
-	div.intro-explanation {	font-size: 30px; }
+	div.intro-explanation {	font-size: 1.25; }
 }
 
-section#data-project h1 {
+section#data-project h2 {
 	font-family: "opensans-lightitalic-webfont";
-	font-size: 40px;
+	font-size: 1.5;
 	text-align: center;
 }
 
@@ -223,14 +205,8 @@ section#data-project h1 {
 
 section#data-project p {
 	font-family: "opensans-regular-webfont";
-	font-size: 18px;
-	line-height: 175%;
-	text-align: center;
-}
-
-@media screen and (max-width: 1080px) {
-	section#data-project p {
-		font-size: 30px; }
+	font-size: 1.1rem;
+	line-height: 1.5;
 }
 
 section#apple-music-opener {
@@ -243,26 +219,33 @@ section#apple-music-opener {
 
 @media screen and (max-width: 1080px) {
 	section#apple-music-opener {
-		font-size: 35px;}
+		font-size: 35px;
+	}
 }
 
 div.apple-music-app {
 	line-height: 200%;
 	font-family: "opensans-regular-webfont";
-	font-size: 15px;
-	text-align: center;
+	font-size: 1em;
 }
 
+
+div.apple-music-app p {
+	min-height: 490px;
+  padding: 10%;
+  background: #ceceee80;
+  border-radius: 15px;
+}
 @media screen and (max-width: 1080px) {
-	div.apple-music-app {
-		font-size: 30px;}
+	div.apple-music-app p {
+		height: auto;
+	}
 }
 
 section#apple-music-closer {
 	font-family: "opensans-lightitalic-webfont";
 	font-size: 25px;
 	margin-top: 5%;
-	text-align: center;
 }
 
 @media screen and (max-width: 1080px) {
@@ -273,7 +256,6 @@ section#apple-music-closer {
 div.video-explanation {
 	font-family: "opensans-regular-webfont";
 	font-size: 15px;
-	text-align: center;
 }
 
 @media screen and (max-width: 1080px) {

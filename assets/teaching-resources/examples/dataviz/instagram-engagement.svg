@@ -16,10 +16,10 @@
    id="svg8040"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="GainerElaina-Dataviz-Updated.svg"
-   inkscape:export-filename="/Users/Elaina/Documents/gainer-datacollection/assets/img/GainerElaina-Dataviz-Updated.png"
-   inkscape:export-xdpi="81.170937"
-   inkscape:export-ydpi="81.170937">
+   sodipodi:docname="instagram-engagement.svg"
+   inkscape:export-filename="/Users/chrisl/www/courses/engl3844/engl3844s18/assets/teaching-resources/examples/dataviz/instagram-engagement.png"
+   inkscape:export-xdpi="150.01241"
+   inkscape:export-ydpi="150.01241">
   <defs
      id="defs8042">
     <filter
@@ -7378,9 +7378,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71"
+     inkscape:zoom="0.66660889"
      inkscape:cx="885.82677"
-     inkscape:cy="431.10819"
+     inkscape:cy="442.91339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7388,10 +7388,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="691"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
+     inkscape:window-width="1672"
+     inkscape:window-height="829"
+     inkscape:window-x="1849"
+     inkscape:window-y="146"
      inkscape:window-maximized="0"
      units="mm"
      width="350mm" />
@@ -7403,7 +7403,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
