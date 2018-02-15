@@ -86,7 +86,7 @@ schedule:
       tue:
         - date: 2018-02-20
           desc: 'Basic drawing in Inkscape and drafting your data visualizations'
-          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]', 'Inkscape Essential Training: 4. Transforming Objects &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]', 'Inkscape Essential Training: 4. Transforming Objects: Selecting objects - Skewing objects, Aligning, distributing, and arranging objects, Object clones, Clipping and masks (Skip the others, such as the XML Editor video and any video not relevant to your project); &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/ba8ab51fce05494591aec527bcbfdcee?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Complete the above training videos.', 'Draft your own data visualization in Inkscape. Be sure to have defined your document properties, as well as use features such as the guides and/or grid maker, object copying/pasting, and object cloning for alike marks with shared attributes.' ]
       thu:
         - date: 2018-02-22
