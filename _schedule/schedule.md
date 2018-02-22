@@ -99,15 +99,20 @@ schedule:
       wkh: 'Completing Your Data Visualization'
       tue:
         - date: 2018-02-27
-          desc: 'Data Visualization Due + Introduce Video Project'
-          readings: [ 'Read the Video Production project page.' ]
+          desc: 'Data Visualization Due, but no class.'
+          readings: [ 'None.' ]
           assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
       thu:
         - date: 2018-03-01
-          desc: 'Researching your topic + The explained genre.'
-          readings: [ 'Find at least 3 sources about one of the issues listed on the Video project page. Review the provided sources on the Resources page to help you start your research.', 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube Channel]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
-          assign: [ 'Research: Create a bulletted list of interesting things that you learned about how your data are used.', 'Create a list of references after your list in APA, making sure that you also cite your sources for each bullet point in APA format: (Author Name, Year).', 'Analyze the explained video by labeling the sequence of communicative moves that it makes to explain something complex like Net Neutrality within a 2-3 minute timeframe.' ]
-          other: [ 'Link to the <a href="" target="_blank">Introduction to the Explained Video</a> presentation slides' ]
+          desc: 'Introduce Video project + The explained genre + Preliminary research.'
+          readings: [
+            'Read the Video Production project page.',
+            'Watch this video as an example of the <em>explained genre</em>: Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube Channel]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
+          assign: [
+            '<strong>Explained topic invention</strong>: Create a new folder in your Google Drive: <code>explained-video</code>. Create a Google Document within it called <code>topic-invention</code>. In it, create a list of 3 potential topics to develop about the data collected about you. The topic need not be specific to your insights garnered from your data visualization, but try to connect it to the digital media and/or technology used. For instance, if you studied your Apple Music listening habits, how might you consider a project that digs deeper into explaining what data Apple collects and ways they use it beyond serving up your music? Another topic could connect your phone use to 1 of the issues listed on the Video Production project page.',
+            'After considering what topic to explain, choose 1 to pursue. Then, within the same Google Document, record some preliminary secondary research. Do so by first creating a list of at least 5 references in APA. Sources should include primary documents about the data-issue, such as an End-User LIcense Agreement from the company. If you are explaining a broader issue/practice such as data-brokering or psychographics, use the library databases to find expert discussion about the practice from a particular perspective: business, technology, education, etc. You should also include credible news reports about particular issues with the use of data / issue.',
+            'Finally, in a new Google Document called <code>nne-label-moves</code>, categorize the different parts of the example explained video by labeling 1) what broader moves it makes to explain Net Neutrality at 2) the particular start-time as a timestamp. For example, 0:00 -- Introduced basic definition of NN: "(insert definition)"; 0:15 -- (Insert move), etc.' ]
+          other: [ 'Link to the <a href="https://docs.google.com/presentation/d/15xGXV-53gE4bfuHOm7MIytYpxZYAPN3Ti_aYylFOqBs/edit?usp=sharing" target="_blank">Introduction to the Explained Video</a> presentation slides' ]
 
     - num: 8
       wkh: 'Spring Break'
