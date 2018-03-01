@@ -12,7 +12,7 @@
    data-name="Layer 1"
    viewBox="0 0 1282.2448 665.46686"
    version="1.1"
-   sodipodi:docname="Eghbali_Fitbit_DataViz.svg"
+   sodipodi:docname="Fitbit_DataViz.svg"
    inkscape:version="0.91 r13725"
    width="1282.2448"
    height="665.46686">
@@ -42,7 +42,7 @@
      id="namedview967"
      showgrid="false"
      inkscape:zoom="0.58924571"
-     inkscape:cx="654.61739"
+     inkscape:cx="385.62943"
      inkscape:cy="342.34077"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -421,8 +421,9 @@
      y1="9.5800838"
      x2="309.13538"
      y2="275.2655"
-     id="line308"
-     style="fill:none;stroke:#06bcb7;stroke-width:1.79010582px;stroke-miterlimit:10" />
+     id="time-axis"
+     style="fill:none;stroke:#06bcb7;stroke-width:1.79010582px;stroke-miterlimit:10"
+     inkscape:label="#line308" />
   <path
      class="cls-30"
      d="m 35.387902,22.544208 14.265186,1.378975 c 2.617716,0.254714 5.901263,1.185741 7.871391,-1.018861 1.824192,-2.064071 2.116063,-6.078029 2.836619,-8.607613 L 63.945637,1.631219 A 1.3681444,1.317492 0 0 0 61.309678,0.92855599 L 58.609872,10.432065 c -0.76616,2.687683 -1.158361,6.244911 -2.462659,8.70423 -1.970129,3.706544 -6.512367,2.151903 -10.033059,1.809356 L 35.387902,19.909223 c -1.751226,-0.166882 -1.742104,2.468102 0,2.634985 z"
