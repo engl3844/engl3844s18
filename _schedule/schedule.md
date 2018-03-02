@@ -146,8 +146,7 @@ schedule:
         - date: 2018-03-20
           desc: 'Practicing Basic Cuts'
           readings: [ 'Project organization handout', 'Continued research.' ]
-          assign: [ 'Organize your project folder in a way that reflects the handout provided.' ]
-          other: [ 'Be prepared to practice basic cuts within groups who share the same video software as you.' ]
+          assign: [ 'Organize your project folder in a way that reflects the handout provided.', 'Come prepared to work on a particular set of cuts within your team setting.' ]
       thu:
         - date: 2018-03-22
           desc: 'More Editing Teamwork'
