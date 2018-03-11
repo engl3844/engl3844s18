@@ -131,7 +131,7 @@ schedule:
         - date: 2018-03-13
           desc: 'Video Composition &amp; Storyboarding'
           readings: [ 'O&#8217;Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
-          assign: [ 'Print out some storyboards [<a href="/assets/readings/videos/storypanels/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards. In class, we will categorize and label these cuts as acts, sequences, and scenes.' ]
+          assign: [ 'Print out some storyboards [<a href="/engl3844s18/assets/readings/videos/storypanels/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards. In class, we will categorize and label these cuts as acts, sequences, and scenes.' ]
       thu:
         - date: 2018-03-15
           desc: 'Draft Story Structure &amp; Storyboards Due'
