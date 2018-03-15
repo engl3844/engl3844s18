@@ -145,8 +145,8 @@ schedule:
       tue:
         - date: 2018-03-20
           desc: 'Practicing Basic Cuts'
-          readings: [ 'Project organization handout', 'Continued research.' ]
-          assign: [ 'Organize your project folder in a way that reflects the handout provided.', 'Come prepared to work on a particular set of cuts within your team setting.' ]
+          readings: [ '<a href="https://docs.google.com/document/d/1ExKQ0RerUXIal_pV8gzN3nA3OS55OPdlziZt4KzvXZ0/edit?usp=sharing" target="_blank">Project organization handout</a>', 'Continued research: Finding sources for info about your topic + media resources to use within your video.' ]
+          assign: [ 'As you continue your research, organize your project folder in a way that reflects the handout provided.', 'Go back to your storypanel and start to include some basic cuts and transitions between shots, as well as write a script to record for each shot-sequence. Use this info to guide your search for tutorials/resources about how to do that work in your particular video editor. Note how I have provided some videos on the resources page.', 'Come to class having already started to work on the first act of your explained video. Bring particular problems/questions + some helpful tips/resources.' ]
       thu:
         - date: 2018-03-22
           desc: 'More Editing Teamwork'
