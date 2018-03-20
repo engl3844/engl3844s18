@@ -139,7 +139,6 @@ schedule:
           assign: [ 'Recall O&#8217;Connor&#8217;s video about Acts, sequences, and scenes. Note how he wrote out a Story Structure for his video as Acts with major sequences.<br/><br/>Before you create your own storypanels, create this broader structure with a preliminary title and logline. Now, develop sequences that will make up each act. <strong>Note how you can use your genre analysis as a guide for writing up this outline</strong>.', 'Now, use your Story Structure to write out storypanels that plan out your cuts and transitions with regards to your explained-video structure. Complete a draft set of storypanels for your video before class. Be sure to plot out each set of sequences with their scenes and cuts.<br/><br/>Consider how you can use a mix of screen-recordings, clips from other videos, and other media (texts and images) within your sequences.' ]
           other: [ 'In class, be prepared to showcase your story structures to peers in a concise and quick manner.', 'We will also use time to discuss how to organize our resources in preparation for creating our videos.' ]
 
-
     - num: 10
       wkh: 'Secondary Research &amp; Outlining'
       tue:
