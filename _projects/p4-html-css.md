@@ -31,7 +31,7 @@ In this final project, you will make decisions about how all of your media eleme
 1. Learn how to set up and use a web-writing environment: Git and Github and writing in a code editor.
 2. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
 3. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, how there are block and inline elements, how those elements can be written into hierarchies, and how they have <code>display</code> properties and behaviors.
-4. Learn about and apply basic CSS element selection and styling (box model), the CSS cascade, &amp; the CSS <code>Grid</code>, which will enable you to create a mobile-first website layout.
+4. Learn about and apply basic CSS element selection and styling (box model), the CSS cascade, &amp; the CSS <code>Grid</code>, which will enable you to create a mobile-first/responsive website layout.
 5. Develop and refine content for your datastory.
 
 ## Rubric
