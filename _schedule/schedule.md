@@ -166,7 +166,7 @@ schedule:
         - date: 2018-03-29
           desc: 'Introduce new project, writing environments, + single-page website conventions'
           readings: [ 'Read the next project description: HTML/CSS: Developing Your Data-Story.', 'Travis, D. (01 Aug. 2011). <a href="http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html" target="_blank">A CRAP way to improve usability</a>. User Focus [blog].', 'Review the following single-page websites: <a href="https://www.and.co/digital-nomad-book" target="_blank">1. Nomad theme</a>, <a href="https://html5up.net/story" target="_blank">2. Story theme</a>, and <a href="https://html5up.net/forty" target="_blank">3. Forty theme</a>.' ]
-          assign: [ 'Explained Video due via Canvas. Be sure to follow the procedure noted on the project page.', 'After reading Travis, analyze and take notes about how you see these different sites applying CRAP design principles. Come prepared to collate how single-page websites seem to apply particular design conventions for us to follow.' ]
+          assign: [ 'Explained Video due via Canvas. Be sure to follow the procedure noted on the project page.', 'After reading Travis, analyze and take notes about how you see these different sites applying CRAP design principles. Come prepared to collate how single-page websites seem to apply particular design conventions for us to follow. Copy and use this <a href="https://docs.google.com/document/d/1nkqvtSj-S3xYzJc5-WPffhcscVSJnqu0uhfVjxjK-sE/edit?usp=sharing" target="_blank">table</a> to organize your thoughts.' ]
           other: [ 'In class, we will review the project description. Also, be sure to bring your laptops, so we can install GitHub and some other tools.' ]
 
 
