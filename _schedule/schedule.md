@@ -184,9 +184,9 @@ schedule:
       thu:
         - date: 2018-04-05
           desc: 'Fundamentals of HTML'
-          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
-          assign: [ 'TBA', '<!-- Revise lecture and assign procedure of HTML to write and version with Github -->' ]
-
+          readings: [ 'Excerpt from Duckett, J. (2011). HTML &amp; CSS. Wiley. (<a href="https://drive.google.com/file/d/1BMbFT4zRFKR4LPGw4iuOcUtOfzzF-Y4Z/view?usp=sharing" target="_blank">Google Drive Link</a>). Read th following pages closely: pp. 20-32, 77-88, 179-188. You can skim the rest for your own knowledge and reference as we go through this project.' ]
+          assign: [ 'Based on the Duckett reading, practice some HTML by writing your own <em>Normal Flow</em> HTML site. This site will not be your datastory site, so be sure to create a new directory and index.html file. This practice site can be about anything you desire; the focus of this assignment is to get better acquainted with HTML, your code editor, and Github. However, to provide a basic framework, you must at least create the following structure, as listed in this Codepen: <a href="https://codepen.io/lndgrn/pen/dZzVGQ" target="_blank">Introduction to HTML</a>. Copy and paste this into your new index.html file and get coding!<br><br>You need not have to write the content of the page. Instead, you can use placeholder images and text (see the <a href="https://engl3844.github.io/engl3844s18/resources/#website" target="_blank">Resources</a> page).<br><br>One more note, be sure to practice good indentation work, which means you must read Duckett carefully, when he discusses block and inline elements.' ]
+          other: [ 'In class, we will review Duckett through a prepared lecture-demo, wherein you will be tasked to follow along with your own code editor and Github app open and at-the-ready. In short, we will be writing more practice HTML code.' ]
 
     - num: 13
       wkh: 'HTML Containing Blocks + Introduce CSS'
@@ -199,7 +199,7 @@ schedule:
       thu:
         - date: 2018-04-12
           desc: 'Fundamentals of CSS'
-          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
+          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="" target="_blank">Google Drive Link to Come</a>)' ]
           assign: [ 'TBA <!-- Revise lecture -->' ]
 
 
