@@ -250,17 +250,12 @@
                             Contains 2 main tags:
                             <ol>
                               <li class="fragment">
-                                "meta" tags == information about the page. Here's a <a href="https://gist.github.com/kevinSuttle/1997924" target="_blank">comprehensive list</a> of available <code>&lt;meta&gt;</code> tags.
-                                <br />
-                                Note how meta tags self-close: <code>&lt;meta /&gt;</code>. Some tags use this syntax, but only a few certain tags.
+                                "Meta" tags: Info about the page (<a href="https://gist.github.com/kevinSuttle/1997924" target="_blank">comprehensive list</a>). Note how <code>&lt;meta /&gt;</code> tags self-close.
                               </li>
                               <li class="fragment">
-                                Browser resources to render the page as desired: For example, <code>&lt;link&gt;</code> tags that tell the browser WHERE to locate CSS stylesheets.
+                                Resources: For example, <code>&lt;link&gt;</code> tags that tell the browser WHERE to locate CSS stylesheets.
                               </li>
                             </ol>
-                            <li class="fragment">
-                              &#9758; Add these tags to your index.html file. Be sure to note the indentation scheme.
-                            </li>
                         </ul>
                     </section>
 
@@ -274,7 +269,7 @@
     &lt;title&gt;Title of your page goes here&lt;/title&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    Bulk of your content here.
+    Content goes in here.
   &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
@@ -380,7 +375,7 @@
                         <h3>
                           Looking Ahead: CSS Defines Different Positioning Schemes for Changing Flows
                           <br />
-                          <small>(See Duckett, pp. 363-364)</small>
+                          <small>(See Coyer's <a href="https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/" target="_blank">elaboration</a>)</small>
                          </h3>
                         <ul>
                             <li class="fragment">Normal flow</li>
@@ -390,6 +385,9 @@
                               <li class="fragment">Absolute positioning: <code>position: absolute;</code></li>
                               <li class="fragment">Fixed positioning: <code>position: fixed;</code></li>
                             </ul>
+                            <li class="fragment">
+                              <a href="https://codepen.io/lndgrn/pen/vNXrGE?editors=1100#0" target="_blank">Codepen example</a>
+                            </li>
                         </ul>
                     </section>
 
@@ -442,9 +440,11 @@
 &lt;html&gt;
 &lt;head&gt;
     &lt;meta charset="utf-8" /&gt;
-    &lt;title&gt;My DataStory&lt;/title&gt;
+    &lt;title&gt;My Practice DataStory&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
+  &lt;header&gt;
+  &lt;/header&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
     &lt;/section&gt;
@@ -469,16 +469,19 @@
   &lt;title&gt;My DataStory&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Title of Page&lt;/h1&gt;
+  &lt;/header&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
 
-      &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Personal Digital Data&lt;/h2&gt;
       &lt;p&gt;Here is a placeholder paragraph.&lt;/p&gt;
 
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
 
-      &lt;h1&gt;Social Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Social Digital Data&lt;/h2&gt;
       &lt;p&gt;Here is a placeholder paragraph.&lt;/p&gt;
 
     &lt;/section&gt;
@@ -507,16 +510,19 @@
     &lt;title&gt;My DataStory&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Title of Page&lt;/h1&gt;
+  &lt;/header&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
-      &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Personal Digital Data&lt;/h2&gt;
       &lt;p&gt;
         Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize
         something&lt;/em&gt;</strong>.
       &lt;/p&gt;
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
-      &lt;h1&gt;Social Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Social Digital Data&lt;/h2&gt;
       &lt;p&gt;
         Here is a placeholder paragraph.
       &lt;/p&gt;
@@ -547,16 +553,19 @@
     &lt;title&gt;My DataStory&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Title of Page&lt;/h1&gt;
+  &lt;/header&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
-      &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Personal Digital Data&lt;/h2&gt;
       &lt;p&gt;
         Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize
         something&lt;/em&gt;</strong>.
       &lt;/p&gt;
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
-      &lt;h1&gt;Social Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Social Digital Data&lt;/h2&gt;
       &lt;p&gt;
         Here is a placeholder paragraph. Here is an example of an internal
         link, where I reference <strong>&lt;a href="#personal-data"&gt;something else&lt;/a&gt;</strong>
@@ -590,9 +599,12 @@
     &lt;title&gt;My DataStory&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
+  &lt;header&gt;
+    &lt;h1&gt;Title of Page&lt;/h1&gt;
+  &lt;/header&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
-      &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Personal Digital Data&lt;/h2&gt;
       &lt;!-- What kind of element is an img: block or inline? --&gt;
       &lt;img src="http://via.placeholder.com/350x150" alt="A placeholder image." /&gt;
       &lt;p&gt;
@@ -600,7 +612,7 @@
       &lt;/p&gt;
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
-      &lt;h1&gt;Social Digital Data&lt;/h1&gt;
+      &lt;h2&gt;Social Digital Data&lt;/h2&gt;
       &lt;p&gt;
         Here is a placeholder paragraph.
       &lt;/p&gt;

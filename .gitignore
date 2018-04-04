@@ -3,3 +3,4 @@ assets/teaching-resources/examples
 _site/
 .sass-cache/
 .jekyll-metadata
+.DS_Store
