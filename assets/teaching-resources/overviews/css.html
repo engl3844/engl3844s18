@@ -565,29 +565,6 @@ nav {
 
                     </section>
 
-                    <!-- <section>
-
-                        <h3>3. Order of appearance + On defaulting</h3>
-                        <p>
-                          <em>Computed value</em> of the parent element: initial value, inherited value, <code>inherit</code> keyword
-                        </p>
-
-                        <a class="jsbin-embed" href="http://jsbin.com/xohoti/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-
-                    </section>
-
-                    <section>
-                        <h4>Inherited value</h4>
-                        <figure class="fragment">
-                            <img src="img/line-height.png" alt="line-height is defined with initial value of normal and is inherited.">
-                        </figure>
-                        <ul>
-                            <li class="fragment"><code>line-height: 2</code><br>Specified → <code>2</code></li>
-                            <li class="fragment"><code>line-height: 200%</code><br><code>line-height: 2em</code><br>Absolute → 2 * 16px = <code>32px</code></li>
-                        </ul>
-                        <p class="fragment"></p>
-                    </section> -->
-
                 </section>
 
                 <section>
@@ -632,6 +609,8 @@ nav {
                     <section>
                         <h3>
                           Font-Relative Length Values
+                          <br />
+                          (<a href="https://drafts.csswg.org/css-values/#font-relative-lengths" target="_blank">csswg spec</a>)
                         </h3>
                         <ul>
                           <li class="fragment">
@@ -643,14 +622,11 @@ nav {
                           <li class="fragment">
                             Essentially, these values are computed values relative to another value declared elsewhere.
                           </li>
-                          <li class="fragment">
-                            Learn more about <a href="https://drafts.csswg.org/css-values/#font-relative-lengths" target="_blank">Font-Relative Lengths</a>.
-                          </li>
                         </ul>
                     </section>
 
                     <section>
-                      <h3>Example Use of Font-Relative Length Values</h3>
+                      <h4>Example Use of Font-Relative Length Values</h4>
                       <p data-height="265" data-theme-id="0" data-slug-hash="GOYoRy" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Basic heading level hierarchies" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/GOYoRy/">Basic heading level hierarchies</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
                       <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
                     </section>
@@ -712,7 +688,7 @@ nav {
                     </section>
 
                     <section>
-                        <h4>BFC vs. IFC</h4>
+                        <h4>Review: BFC vs. IFC</h4>
                         <style>
                           .reveal .bfc,
                           .reveal .ifc {
@@ -764,6 +740,9 @@ nav {
                         <figure>
                             <img class="transparent" src="img/box-model.png" alt="box model consists of content, padding, border and margin" style="height: 300px;">
                         </figure>
+                        <p>
+                          Test it out with your <a href="https://lingeringcode.github.io/lindgren-datastory/" target="_blank">Inspect Element</a>.
+                        </p>
                     </section>
 
                     <section>
@@ -774,18 +753,14 @@ nav {
 
                     <section>
                         <h3>
-                          Different Positioning Schemes for Flows
-                          <br />
-                          <small>(See Duckett, pp. 363-364)</small>
-                         </h3>
+                          Positioning Schemes for Different Element Flows &amp; Behaviors
+                        </h3>
                         <ul>
-                            <li class="fragment">Normal flow</li>
-                            <li class="fragment">Relative flow</li>
-                            <ul class="fragment">
-                              <li class="fragment">Float: <code>float: left;</code></li>
-                              <li class="fragment">Absolute positioning: <code>position: absolute;</code></li>
-                              <li class="fragment">Fixed positioning: <code>position: fixed;</code></li>
-                            </ul>
+                            <li class="fragment"><code>position: default</code> (normal)</li>
+                            <li class="fragment"><code>position: absolute</code></li>
+                            <li class="fragment"><code>position: fixed</code></li>
+                            <li class="fragment"><code>position: relative</code></li>
+                            <li class="fragment"><code>float: [left, right, none]</code></li>
                         </ul>
                     </section>
 
@@ -804,24 +779,11 @@ nav {
                     <section>
                         <h3>Fixed vs. Absolute Positioning</h3>
                         <ul>
-                          <li class="fragment">How to declare in CSS:
-                            <br />>> <code>position: fixed</code>
-                            <br />>> <code>position: absolute</code></li>
-                          <li class="fragment">Roughly main difference:
+                          <li class="fragment">Rough main difference:
                             <br />>> <code>fixed</code> positions an element based on the <strong>viewport</strong>.
                             <br />>> <code>absolute</code> positions an element based on the closest parent <strong>containing block</strong>.</li>
                         </ul>
                     </section>
-
-                    <!-- <section>
-                        <h4><code>position: absolute</code></h4>
-                        <ul>
-                            <li class="fragment">Closest parent with <code>position</code> other than <code>static</code><br><span class="fragment">or with <code>transform</code> other than <code>none</code></span></li>
-                        </ul>
-                        <figure class="fragment" style="margin-top: 0;">
-                            <img src="img/icb.png" alt="Initial containing block starts from the origin of the canvas and has the same size of the viewport." style="height: 380px;">
-                        </figure>
-                    </section> -->
 
                     <section>
                         <h3>Example: <code>fixed</code> &amp; <code>absolute</code></h3>
