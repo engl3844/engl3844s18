@@ -192,14 +192,14 @@ schedule:
       wkh: 'HTML Containing Blocks + Introduce CSS'
       tue:
         - date: 2018-04-10
-          desc: 'Review HTML Basics and Practice Git Versioning'
-          readings: [ 'TBA <!-- Read about containing blocks -->' ]
-          assign: [ 'TBA <!-- Include HW with the production of an HTML5 website. See https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/ Students must identify containing blocks -->' ]
+          desc: 'Review HTML Basics, Practice Git Versioning, and Introduce CSS'
+          readings: [ '"Introducing CSS," Chapter 10 in Duckett, J. (2011). HTML &amp; CSS. Wiley. (<a href="https://drive.google.com/file/d/1z__WcZ9D4XLQxHoKzJL3UTHGWZavuUq3/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
+          assign: [ 'Refer to the <a href="https://engl3844.github.io/engl3844s18/assets/teaching-resources/overviews/html.html#/8/1" target="_blank">lecture-demo slides</a> that describe the assignment. <!-- Include HW with the production of an HTML5 website. See https://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/ Students must identify containing blocks -->' ]
 
       thu:
         - date: 2018-04-12
-          desc: 'Fundamentals of CSS'
-          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="" target="_blank">Google Drive Link to Come</a>)' ]
+          desc: 'Continue Fundamentals of CSS'
+          readings: [ 'TBA' ]
           assign: [ 'TBA <!-- Revise lecture -->' ]
 
 
