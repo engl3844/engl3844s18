@@ -169,7 +169,6 @@ schedule:
           assign: [ 'Explained Video due via Canvas. Be sure to follow the procedure noted on the project page.', 'After reading Travis, analyze and take notes about how you see these different sites applying CRAP design principles. Come prepared to collate how single-page websites seem to apply particular design conventions for us to follow. Copy and use this <a href="https://docs.google.com/document/d/1nkqvtSj-S3xYzJc5-WPffhcscVSJnqu0uhfVjxjK-sE/edit?usp=sharing" target="_blank">table</a> to organize your thoughts.' ]
           other: [ 'In class, we will review the project description. Also, be sure to bring your laptops, so we can install GitHub and some other tools.' ]
 
-
     - num: 12
       startproj: true
       sp-title: 'Project: Datastory Website'
@@ -198,13 +197,12 @@ schedule:
 
       thu:
         - date: 2018-04-12
-          desc: 'Continue Fundamentals of CSS'
+          desc: 'Practice CSS Selection, the Cascade, and Basic CSS Writing Strategies'
           readings: [ 'TBA' ]
           assign: [ 'TBA <!-- Revise lecture -->' ]
 
-
     - num: 14
-      wkh: 'Practice CSS Selection &amp; CSS3 Grid'
+      wkh: 'Introduce CSS3 Grid'
       tue:
         - date: 2018-04-17
           desc: 'Review CSS Basics and Understanding the Cascade'
@@ -240,7 +238,7 @@ schedule:
     - num: 17
       wkh: 'FINALS'
       tue:
-        - date: "TBA"
+        - date: 2018-05-08
           desc: 'FINALS DUE'
           assign: [ 'Submit your revised projects, participation memo, and revision memo within a Google Drive folder. IF you revise your dataviz, be sure to share the SVG and a .png file, so I can see what you see on your computer. Name your revision folder with the following scheme: <em>lastname-firstinitial-3844f17-finals</em>. When you share it with me, use the message function to also provide the Github URL to your website.<br/><br/><b>Submit a revision memo within the finals folder</b> that reviews all of your revisions based on the provided feedback. Explain what you changed and why. You can use the same template as the participation memo, but make the obvious changes to the filename and subject line.' ]
 ---
