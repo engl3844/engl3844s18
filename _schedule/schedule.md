@@ -198,8 +198,8 @@ schedule:
       thu:
         - date: 2018-04-12
           desc: 'Practice CSS Selection, the Cascade, and Basic CSS Writing Strategies'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA <!-- Revise lecture -->' ]
+          readings: [ 'None.' ]
+          assign: [ 'Revise your <code>practice-css</code> homework, as per the directions noted in the <a href="https://engl3844.github.io/engl3844s18/assets/teaching-resources/overviews/css.html#/14" target="_blank">lecture-demo</a>' ]
 
     - num: 14
       wkh: 'Introduce CSS3 Grid'
