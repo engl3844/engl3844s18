@@ -202,17 +202,27 @@ schedule:
           assign: [ 'Revise your <code>practice-css</code> homework, as per the directions noted in the <a href="https://engl3844.github.io/engl3844s18/assets/teaching-resources/overviews/css.html#/14" target="_blank">lecture-demo</a>' ]
 
     - num: 14
-      wkh: 'Introduce CSS3 Grid'
+      wkh: 'Introduce Responsive / Grid Layout Design &amp; CSS3 Grid'
       tue:
         - date: 2018-04-17
-          desc: 'Review CSS Basics and Understanding the Cascade'
-          readings: [ 'TBA <!-- Read about containing blocks -->' ]
-          assign: [ 'TBA <!-- Include HW with selection types and cascade work -->' ]
+          desc: 'Review CSS Basics &amp; Introduce Responsive &amp; Mobile-First Design'
+          readings: [
+            'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].',
+            'Simmons, Jen. (2018). <a href="https://www.youtube.com/watch?v=FEnRpy9Xfes" target="_blank">Basics of CSS Grid: The Big Picture</a>. <cite>Layout Land</cite> [Youtube Channel]. ~15:00.' ]
+          assign: [ 'Print out the following <a href="/engl3844s18/assets/teaching-resources/grid-for-simmons-notes.png" target="_blank">image</a> and take notes about the following terms by labeling the example Grid: Grid Container, Grid Item, Grid Cell, Grid Area, Rows, Columns, Tracks, Lines, Line Numbers, Grid Gap. Bring this completed printout to class to receive attendance for the day.' ]
+          other: [ 'In class, we will review questions about HTML/CSS, discuss mobile/responsive design, and the terms that Simmons introduces in her video. If time, we will practice some basic CSS grid work in preparation for Thursdays assignment and class.' ]
+
       thu:
         - date: 2018-04-19
-          desc: 'Introduce CSS3 Grid, Responsive, and Mobile-First Design'
-          readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].', 'Rachel Andrews, <cite>Grid by Example</cite> Video Tutorials: <a href="https://gridbyexample.com/video/series-define-a-grid/" target="_blank">Defining a grid</a>, <a href="https://gridbyexample.com/video/series-the-fr-unit/" target="_blank">The <code>fr</code> unit</a>, <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a>, <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>' ]
-          assign: [ 'Create a new practice folder and add it to your Github App.', 'Then do the following: <ol><li>Create an HTML document with 3 different parent containing block <code>article</code> elements.</li><li>In the first, write 6 children <code>section</code> elements.</li><li>In the second, 8 children <code>section</code> elements.</li><li>In the third, 4 children <code>section</code> elements.</li><li>Be sure to label each child element with a heading that marks their position in the order. Plus, define <code>background-color</code> and <code>height</code> values to the children elements, so you can see the results.</li><li>Now, use the <code>display: grid</code> to bring these 3 different article elements to life in 3 different ways. You may want to play around with the height values in order to achieve different results.<br />Please do not copy and paste from these sites. Instead, write out some examples of your own. However, you can, of course, base your ideas off of the plethora of available examples.<br /><br /><strong>NOTE</strong>: At least one of your examples needs to be responsive.</ol>' ]
+          desc: 'Introduce CSS3 Grid'
+          readings: [
+            'Simmons, Jen. (2018). <a href="https://www.youtube.com/watch?v=tFKrK4eAiUQ" target="_blank">Incredibly Easy Layouts with CSS Grid</a>. <cite>Layout Land</cite> [Youtube Channel]. ~9:00.<br><br>On the back of your grid printout, jot notes about the difference between explicit and implicit grid definitions.',
+            'Rachel Andrews, <cite>Grid by Example</cite> Video Tutorials: <a href="https://gridbyexample.com/video/series-define-a-grid/" target="_blank">Defining a grid</a>, <a href="https://gridbyexample.com/video/series-the-fr-unit/" target="_blank">The <code>fr</code> unit</a>, <a href="https://gridbyexample.com/video/series-line-based-placement/" target="_blank">Line-based positioning</a>, <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a>, <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>',
+            'Simmons, Jen. (2018). <a href="https://www.youtube.com/watch?v=YfIjFeBLhyA" target="_blank">Whitespace on the Web! -- with CSS Grid</a>. <cite>Layout Land</cite> [Youtube Channel]. ~5:30.'
+            ]
+          assign: [
+            'Create a new practice folder: <code>practice-grid</code>. Within this practice folder, create the standard project directory structure. Finally, add it to your Github App and work in the gh-pages branch.',
+            '' ]
 
 
     - num: 15
