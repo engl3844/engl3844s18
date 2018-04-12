@@ -221,7 +221,7 @@ schedule:
             'Simmons, Jen. (2018). <a href="https://www.youtube.com/watch?v=YfIjFeBLhyA" target="_blank">Whitespace on the Web! -- with CSS Grid</a>. <cite>Layout Land</cite> [Youtube Channel]. ~5:30.'
             ]
           assign: [
-            'Download the following practice folder: <a href="assets/teaching-resources/practice-grid.zip" target="_blank">practice-grid.zip</a> and unzip it into your class practice folder. Add it to your Github App and work in the gh-pages branch. Follow the directions within the index.html file. Essentially, you are tasked to define different grids by writing HTML, then CSS The videos will help you develop knowledge to learn how to complete these tasks.' ]
+            'Download the following practice folder: <a href="/engl3844s18/assets/teaching-resources/practice-grid.zip" target="_blank">practice-grid.zip</a> and unzip it into your class practice folder. Add it to your Github App and work in the gh-pages branch. Follow the directions within the index.html file. Essentially, you are tasked to define different grids by writing HTML, then CSS The videos will help you develop knowledge to learn how to complete these tasks.' ]
 
 
     - num: 15
