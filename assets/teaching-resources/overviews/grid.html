@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>ENGL 3844: On Grids</title>
+        <!-- =============================================
+            Adapted and modified content from GU Yiling:
+            http://justineo.github.io/slideshows/writing-css/
+            ==============================================-->
+
+        <meta name="description" content="A brief introduction of CSS.">
+        <meta name="author" content="GU Yiling, modified by Chris Lindgren">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/just.css" id="theme">
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="css/zenburn.css">
+
+        <style>
+            var::before {
+                content: "[";
+            }
+            var::after {
+                content: "]";
+            }
+            var::before,
+            var::after {
+                color: #666;
+                font-style: normal;
+            }
+
+            iframe {
+                box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+            }
+            span.type::before {
+                content: "‘<";
+            }
+            span.type::after {
+                content: ">’";
+            }
+        </style>
+
+        <!-- If the query includes "print-pdf", include the PDF print sheet -->
+        <script>
+            if( window.location.search.match( /print-pdf/gi ) ) {
+                var link = document.createElement( "link" );
+                link.rel = "stylesheet";
+                link.type = "text/css";
+                link.href = "../../reveal.js/css/print/pdf.css";
+                document.getElementsByTagName( "head" )[0].appendChild( link );
+            }
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+
+
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <div class="slides">
+                <section>
+                    <h1>
+                      Designing Responsive Grids for the Web
+                    </h1>
+                </section>
+
+                <section>
+                    <h2>In this lecture:</h2>
+                    <style>
+                      #overview-list li {
+                          list-style-type: none;
+                      }
+
+                      #overview-list .fa {
+                          display: inline-block;
+                          width: 40px;
+                      }
+                    </style>
+                    <ul id="overview-list">
+                        <li><span class="fa fa-check"></span> Mobile-First Principle</li>
+                        <li><span class="fa fa-check"></span> <code>&lt;meta name="viewport" content="width=device-width" /&gt;</code></li>
+                        <li><span class="fa fa-check"></span> Breakpoints</li>
+                        <li><span class="fa fa-check"></span> Content inventory0</li>
+                    </ul>
+                </section>
+
+                <!-- MOBILEFIRST  -->
+                <section>
+                  <section>
+                    <h3>What is Mobile-First?</h3>
+                  </section>
+
+                  <section>
+                    <h4></h4>
+                  </section>
+                </section>
+
+                <!-- VIEWPORTS -->
+                <section>
+                  <section>
+                    <h3>Viewports</h3>
+                  </section>
+
+                  <section>
+                    <h4>What's the Viewport?</h4>
+                    <p data-height="265" data-theme-id="0" data-slug-hash="vNXrGE" data-default-tab="css,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Containing blocks and position properties" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/vNXrGE/">Containing blocks and position properties</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+                  </section>
+                </section>
+
+                <!-- BREAKPOINTS  -->
+                <section>
+                  <section>
+                    <h3>Breakpoints</h3>
+                  </section>
+
+                  <section>
+                    <h4>What are Breakpoints?</h4>
+                    <p>
+                      Answer: The equivalent of the size of paper you use, i.e., the physical constraints of your canvas.
+                    </p>
+                  </section>
+
+                  <section>
+                    <h4>Example Breakpoints per Device</h4>
+                    <table style="font-size: 70%;">
+                        <thead>
+                            <tr>
+                                <th>Device</th>
+                                <th>Breakpoints</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>iPhone 5/5s (portrait)</td>
+                                <td><code>320x568px</code></td>
+                            </tr>
+                            <tr>
+                                <td>iPhone 5/5s (landscape)</td>
+                                <td><code>568x320px</code></td>
+                            </tr>
+                            <tr>
+                                <td>iPad Pro (portrait)</td>
+                                <td><code>1024x1366px</code></td>
+                            </tr>
+                            <tr>
+                                <td>iPad Pro (landscape)</td>
+                                <td><code>1366×1024px</code></td>
+                            </tr>
+                            <tr>
+                                <td>Samsung Galaxy S5 (portrait)</td>
+                                <td><code>360×540px</code></td>
+                            </tr>
+                            <tr>
+                                <td>Samsung Galaxy S5 (landscape)</td>
+                                <td><code>540×360px</code></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>
+                      Check out UXPIN's <a href="https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf" target="_blank">breakpoint cheatsheet</a>.
+                    </p>
+                  </section>
+
+                  <section>
+                    <h4>Using BPs in CSS</h4>
+                    <p>
+                      To-be discussed next time, but here's a preview:
+                    </p>
+                    <ul>
+                      <li>
+                        <code>@media</code> queries
+                        <pre class="css">@media (min-height: 500px) {
+  header img {
+    width: 100%;
+  }
+}</pre>
+                      </li>
+                      <li>
+                        <em>NEW</em> <code>@support</code> feature queries. (Read <a href="https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/" target="_blank">Simmons</a>.)
+                        <pre>@supports (display: grid) {
+   // Only applied if browser supports CSS Grid
+ }</pre>
+                      </li>
+                    </ul>
+                  </section>
+                </section>
+
+                <!--  -->
+                <section>
+                  <section>
+                    <h3>Good Design Involves Good Content-Planning</h3>
+                  </section>
+
+                  <section>
+                    <h4>Content Inventory</h4>
+                    <p>
+                      Plan out your content and its structure:
+                    </p>
+                    <ul>
+                      <li>
+                        Grid Paper: <a href="/engl3844s18/assets/teaching-resources/sneakpeekit-2-mobiles-grid.pdf" target="_blank">2 Mobile-Screens Paper</a>, <a href="/engl3844s18/assets/teaching-resources/sneakpeekit-4-tablets-grid.pdf" target="_blank">4 Tablet-Screens Paper</a>, &amp; <a href="/engl3844s18/assets/teaching-resources/sneakpeekit-4-browsers-grid.pdf" target="_blank">4 Browser-Screens Paper</a> (src: <a href="http://sneakpeekit.com/" target="_blank">Sneakpeekit.com</a>).
+                      </li>
+                      <li>
+                        Content Inventory (Example <a href="https://docs.google.com/spreadsheets/d/1ENiRANerMcUjh8vheFDCdA5iN3doIUxKHWjdaiPtSgE/edit?usp=sharing" target="_blank">Google Sheet</a>)
+                      </li>
+                    </ul>
+                  </section>
+                </section>
+            </div>
+
+        </div>
+
+        <script src="js/head.min.js"></script>
+        <script src="js/reveal.min.js"></script>
+
+        <script>
+
+            // Full list of configuration options available here:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || "linear", // default/cube/page/concave/zoom/linear/fade/none
+
+                // Parallax scrolling
+                // parallaxBackgroundImage: "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg",
+                // parallaxBackgroundSize: "2100px 900px",
+
+                // Optional libraries used to extend on reveal.js
+                dependencies: [
+                    { src: "js/classList.js", condition: function() { return !document.body.classList; } },
+                    { src: "js/marked.js", condition: function() { return !!document.querySelector( "[data-markdown]" ); } },
+                    { src: "js/markdown.js", condition: function() { return !!document.querySelector( "[data-markdown]" ); } },
+                    { src: "js/highlight.js", async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: "js/zoom.js", async: true, condition: function() { return !!document.body.classList; } },
+                    { src: "js/notes.js", async: true, condition: function() { return !!document.body.classList; } }
+                ]
+            });
+
+        </script>
+        <script src="https://static.codepen.io/assets/embed/ei.js"></script>
+    </body>
+</html>
