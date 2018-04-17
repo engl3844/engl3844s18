@@ -210,7 +210,9 @@ schedule:
             'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].',
             'Simmons, Jen. (2018). <a href="https://www.youtube.com/watch?v=FEnRpy9Xfes" target="_blank">Basics of CSS Grid: The Big Picture</a>. <cite>Layout Land</cite> [Youtube Channel]. ~15:00.' ]
           assign: [ 'Print out the following <a href="/engl3844s18/assets/teaching-resources/grid-for-simmons-notes.png" target="_blank">image</a> and take notes about the following terms by labeling the example Grid: Grid Container, Grid Item, Grid Cell, Grid Area, Rows, Columns, Tracks, Lines, Line Numbers, Grid Gap. Bring this completed printout to class to receive attendance for the day.' ]
-          other: [ 'In class, we will review questions about HTML/CSS, discuss mobile/responsive design, and the terms that Simmons introduces in her video. If time, we will practice some basic CSS grid work in preparation for Thursdays assignment and class.' ]
+          other: [
+            'In class, we will review questions about HTML/CSS, discuss mobile/responsive design, and the terms that Simmons introduces in her video. If time, we will practice some basic CSS grid work in preparation for Thursdays assignment and class.',
+            'Link to <a href="/engl3844s18/assets/teaching-resources/overviews/grid.html" target="_blank">slides</a>.' ]
 
       thu:
         - date: 2018-04-19
