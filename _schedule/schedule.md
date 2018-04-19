@@ -230,6 +230,7 @@ schedule:
       tue:
         - date: 2018-04-24
           desc: 'Prototype your layout and website.'
+          assign: [ 'Print out the grid paper and plan your single-page website layout as it would look on different screen sizes.', 'Create your datastory project folder and start developing the layout before class.' ]
           other: [ 'Lab-based class, where you have time to address issues and work through problems and website elements in class.' ]
       thu:
         - date: 2018-04-26
