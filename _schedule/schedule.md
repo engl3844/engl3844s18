@@ -236,7 +236,7 @@ schedule:
       thu:
         - date: 2018-04-26
           desc: 'Continue developing your layout and website.'
-          other: [ 'Lab-based class, where you have time to address issues and work through problems and website elements in class.' ]
+          other: [ 'Lab-based class, where you have time to address issues and work through problems and website elements in class.', 'To see how to deal with media, check out my example <a href="https://lingeringcode.github.io/lindgren-datastory/" target="_blank">datastory website</a>.', 'Check out some Codepens with example typography schemes: <a href="https://codepen.io/lndgrn/pen/GOYoRy" target="_blank">Basic headings and font imports</a> &amp; <a href="https://codepen.io/lndgrn/pen/yYwNao" target="_blank">More comprehensive typography scheme</a>' ]
 
 
     - num: 16
